@@ -1,6 +1,6 @@
 ﻿#target Illustrator-18.064
 // Fix exports from ArcGIS
-#includepath '/c/home/hugo/config/Application Data/illustrator_scripts/Nordpil'
+#includepath (new File($.fileName)).parent 
 #include 'alerter.jsx'
 
 var lyrBound = activeDocument.layers.add();
@@ -18,24 +18,19 @@ for (var intI=0; intI < lyrMain.layers.length; intI++) {
 	newLayer.name = lyrMain.layers[intI].name;
 	newLayer.move(lyrMain, ElementPlacement.PLACEBEFORE);
 	lyrMain.layers[intI].groupItems[0].move(newLayer,ElementPlacement.INSIDE);
-	if (intI != 0) {
-         for (var intJ=0; intJ < newLayer.pathItems.length; intJ++) {
-             if (newLayer.pathItems[intJ].clipping) {
-                newLayer.pathItems[intJ].remove();
-             }
-         }
-	}
 	ungroup(newLayer.groupItems[0])
 
-	if (intI == 0) {
-         for (var intJ=0; intJ < newLayer.pathItems.length; intJ++) {
-             if (newLayer.pathItems[intJ].clipping) {
-                newLayer.pathItems[intJ].move(lyrBound,ElementPlacement.INSIDE);
-                lyrBound.visible = false;
-             }
-         }
-	} else {
-		newLayer.pathItems[0].remove()
+	// Remove clipping path
+	for (var intJ=0; intJ < newLayer.pathItems.length; intJ++) {
+		if (newLayer.pathItems[intJ].clipping) {
+			if (intI == 0) {
+				// If this is the first layer, move the clipping path to the 'frame guide' layer, otherwise delete it
+				newLayer.pathItems[intJ].move(lyrBound,ElementPlacement.INSIDE);
+				lyrBound.visible = false;
+			} else {
+				newLayer.pathItems[intJ].remove()
+			}
+		}
 	}
 }
 
