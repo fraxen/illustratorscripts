@@ -1,12 +1,7 @@
-﻿#target Illustrator
+﻿/* jshint ignore:start */
 /**********************************************************
 
 Hugo Ahlenius
-December 2006
-All Rights Reserved
-fraxinus@oxel.net
-http://www.oxel.net/
-$Id: finalsave.jsx 1371 2013-10-17 10:05:31Z hugo $
 
 finalsave.js
 
@@ -23,13 +18,21 @@ DESCRIPTION
 	If the variable app.finalSaveNoPrompt is set to true
 	it will not do a popup when the conversion is done,
 	to enable batch conversion (see 'finalsave_dir.js')
-o
+
 **********************************************************/
+#target Illustrator-18.064
+#includepath (new File($.fileName)).parent 
+#include 'utility.jsx'
+/* jshint ignore:end */
+
+if (!(app.finalSaveNoPrompt)) {
+	dispAlert('Starting saving...','Illustrator finalsave.js');
+}
 
 var saveVersion = Compatibility.ILLUSTRATOR17;
 
-var now = new Date;
-var nowString = new String;
+var now = new Date();
+var nowString = '';
 var doPngResize = true;
 
 if (app.activeDocument.XMPString.match('for CS3') == 'for CS3') {
@@ -41,7 +44,7 @@ if (app.activeDocument.XMPString.match('for CS2') == 'for CS2') {
 }
 
 if (app.activeDocument.XMPString.match('noPngResize') == 'noPngResize') {
-	doPngResize = false
+	doPngResize = false;
 }
 // Main Code [Execution of script begins here]
 var progFiles = "c:\\program";
@@ -56,7 +59,6 @@ var destFolder = null;
 destFolder = app.activeDocument.fullName.path;
 sourceDoc = app.activeDocument;
 var originalName = sourceDoc.name;
-
 // {{{ METADATA STUFF
 // Check if a metadata file exists...
 var metaFile = new File(getNewName(originalName,destFolder, '.xml'));
@@ -66,7 +68,6 @@ if (!metaFile.exists) {
 	metaFile.writeln('<graphicdoc>');
 	metaFile.writeln('\t<title>' + originalName +'</title>');
 	metaFile.writeln('\t<notes><![CDATA[');
-	metaFile.writeln('\t]]></notes>');
 	metaFile.writeln('\t<caption></caption>');
 	metaFile.writeln('\t<originator>Hugo Ahlenius, Nordpil, ' + now.getFullYear() + '</originator>');
 	metaFile.writeln('\t<credit>Hugo Ahlenius, Nordpil, ' + now.getFullYear() + '</credit>');
@@ -75,11 +76,11 @@ if (!metaFile.exists) {
 	metaFile.writeln('\t\t<source></source>');
 	metaFile.writeln('\t</sources>');
 	metaFile.writeln('</graphicdoc>');
+    metaFile.close();
 }
-metaFile.close();
+
 var xmpString = app.activeDocument.XMPString;
 // }}}
-
 // First Save as illustrator file in temp dir
 targetFileAI = app.activeDocument.fullName;
 var nowString = now.getFullYear() + '_' + zeroPad(now.getMonth()+1,2) + '_'  + zeroPad(now.getDate(),2) + '-' + zeroPad(now.getHours(),2) + '_'  + zeroPad(now.getMinutes(),2);
@@ -107,28 +108,24 @@ if (doPngResize) sourceDoc.saveAs(targetFileEPS, getEPSOptions());
 
 
 // Fix the bitmaps - trim and create thumb
-var fBatch = new File (getNewName(originalName + nowString, $.getenv('temp'),'.bat'));
 var pngFolder = targetFilePNG.fsName.replace(/\\[^\\]*$/,'');
 var pngFileName = targetFilePNG.fsName.replace(/.*\\/,'');
-fBatch.open('w:');
-fBatch.writeln ('if EXIST "' + pngFolder + '\\' + targetFilePDF.displayName.replace(/.pdf/,'-01.pdf') + '" move "' + pngFolder + '\\' + targetFilePDF.displayName.replace(/.pdf/,'-01.pdf') + '" "' + pngFolder + '\\' + targetFilePDF.displayName + '"');
-fBatch.writeln ('if NOT EXIST "' + pngFolder + '\\' + pngFileName + '.png" (');
-fBatch.writeln ('   IF EXIST "' + pngFolder + '\\' + pngFileName.replace(/ /g,'-') + '.png" mv "' + pngFolder + '\\' + pngFileName.replace(/ /g,'-') + '.png" "' + pngFolder + '\\' + pngFileName + '.png"');
-fBatch.writeln ('   IF EXIST "' + pngFolder + '\\' + pngFileName.replace(/\.[^\.]*$/g,'') + '.png" mv "' + pngFolder + '\\' + pngFileName.replace(/\.[^\.]*$/g,'') + '.png" "' + pngFolder + '\\' + pngFileName + '.png"');
-fBatch.writeln (')');
+var fBatch = 'if EXIST "' + pngFolder + '\\' + targetFilePDF.displayName.replace(/.pdf/,'-01.pdf') + '" move "' + pngFolder + '\\' + targetFilePDF.displayName.replace(/.pdf/,'-01.pdf') + '" "' + pngFolder + '\\' + targetFilePDF.displayName + '"\r';
+fBatch += 'if NOT EXIST "' + pngFolder + '\\' + pngFileName + '.png" (\r';
+fBatch += '   IF EXIST "' + pngFolder + '\\' + pngFileName.replace(/ /g,'-') + '.png" mv "' + pngFolder + '\\' + pngFileName.replace(/ /g,'-') + '.png" "' + pngFolder + '\\' + pngFileName + '.png"\r';
+fBatch += '   IF EXIST "' + pngFolder + '\\' + pngFileName.replace(/\.[^\.]*$/g,'') + '.png" mv "' + pngFolder + '\\' + pngFileName.replace(/\.[^\.]*$/g,'') + '.png" "' + pngFolder + '\\' + pngFileName + '.png"\r';
+fBatch += ')\r';
 
-fBatch.writeln ('if EXIST "' + targetFilePNG2.fsName + '.jpg" del "' + targetFilePNG2.fsName + '.jpg"');
+fBatch += 'if EXIST "' + targetFilePNG2.fsName + '.jpg" del "' + targetFilePNG2.fsName + '.jpg"\r';
 
 if (!doPngResize) {
-    fBatch.writeln (progFiles + '\\graphics\\imagemagick\\convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"');
+    fBatch += progFiles + '\\graphics\\imagemagick\\convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 } else {
-    fBatch.writeln ('copy ' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"');
+    fBatch += 'copy ' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 }
-fBatch.writeln (progFiles + '\\graphics\\imagemagick\\convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"');
-if (targetFilePNG.fsName != targetFilePNG2.fsName) fBatch.writeln ('del "' + targetFilePNG.fsName + '.png"');
-fBatch.close();
-fBatch.execute();
-
+fBatch += progFiles + '\\graphics\\imagemagick\\convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"\r';
+if (targetFilePNG.fsName != targetFilePNG2.fsName) fBatch += 'del "' + targetFilePNG.fsName + '.png"\r';
+execBatchfile(fBatch);
 
 // The save as illustrator again
 sourceDoc.saveAs (targetFileAI, getAIOptions());
@@ -146,11 +143,7 @@ if (!(app.finalSaveNoPrompt)) {
 	}
 	alertString = alertString + '\\n-----------------\\nin folder: ' + new Folder(destFolder).fsName;
 	alertString = alertString.replace(/\\/,'\\\\');
-	var fBatch = new File (getNewName(originalName + nowString, $.getenv('temp'),'2.bat'));
-	fBatch.open('w:');
-	fBatch.writeln ('start Growlnotify.exe /p:0 /t:"Illustrator finalsave.js" /ai:c:\\home\\hugo\\bin\\icon_illustrator.png "' + alertString + '"');
-	fBatch.close();
-	fBatch.execute();
+	dispAlert(alertString,"Illustrator finalsave.js");
 }
 
 
@@ -340,15 +333,6 @@ function getAIOptions()
 	// Add more properties here if you like
 
 	return AISaveOpts;
-}
-
-function zeroPad(num,count)
-{
-	var numZeropad = num + '';
-	while(numZeropad.length < count) {
-		numZeropad = "0" + numZeropad;
-	}
-return numZeropad;
 }
 
 // vim: ft=javascript
