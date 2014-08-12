@@ -1,0 +1,3 @@
+[submodule "web_gfx"]
+	path = web_gfx
+	url = //svecia.vpn/home/hugo/git/gfx.git
