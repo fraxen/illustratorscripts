@@ -1,0 +1,1334 @@
+C:\project\1001 siwi west asia\graphics\00_overview\00_overview.ai
+C:\project\1001 siwi west asia\graphics\01_euphtigrisgw\01_euphtigrisgw.ai
+C:\project\1001 siwi west asia\graphics\01_euphtigrisgw\01_groundwaterlegend.ai
+C:\project\1001 siwi west asia\graphics\01_euphtigrisov\01_euphtigrisow.ai
+C:\project\1001 siwi west asia\graphics\02_jordangw\02_jordangw.ai
+C:\project\1001 siwi west asia\graphics\02_jordanov\02_jordanov.ai
+C:\project\1001 siwi west asia\graphics\03_arabianpgw\03_arabiangw.ai
+C:\project\1001 siwi west asia\graphics\03_arabianpov\03_arabianov.ai
+C:\project\1001 siwi west asia\graphics\04_waterbalance\04_waterbalance.ai
+C:\project\1001 siwi west asia\graphics\05_gwall\05_gwall.ai
+C:\project\1001 siwi west asia\graphics\_output\00_overview.ai
+C:\project\1001 siwi west asia\graphics\_output\01_euphtigrisgw.ai
+C:\project\1001 siwi west asia\graphics\_output\01_euphtigrisow.ai
+C:\project\1001 siwi west asia\graphics\_output\01_groundwaterlegend.ai
+C:\project\1001 siwi west asia\graphics\_output\02_jordangw.ai
+C:\project\1001 siwi west asia\graphics\_output\02_jordanov.ai
+C:\project\1001 siwi west asia\graphics\_output\03_arabiangw.ai
+C:\project\1001 siwi west asia\graphics\_output\03_arabianov.ai
+C:\project\1001 siwi west asia\graphics\_output\04_waterbalance.ai
+C:\project\1001 siwi west asia\graphics\_output\05_gwall.ai
+C:\project\1011 siwi central asia\graphics\00_overview\00_overview.ai
+C:\project\1012 ABA\graphics\arcticchar\arcticchar.ai
+C:\project\1012 ABA\graphics\asti_locations\asti_locations.ai
+C:\project\1012 ABA\graphics\asti_trends\asti_trends.ai
+C:\project\1012 ABA\graphics\connections\worldconnections.ai
+C:\project\1012 ABA\graphics\eidermap\eidercommon.ai
+C:\project\1012 ABA\graphics\extent\extent.ai
+C:\project\1012 ABA\graphics\fishchanges\fishproduction.ai
+C:\project\1012 ABA\graphics\fishdistribution\fishdistribution.ai
+C:\project\1012 ABA\graphics\geneticdiversity\geneticdiversity.ai
+C:\project\1012 ABA\graphics\greening\greening.ai
+C:\project\1012 ABA\graphics\greening_chart\greening_chart.ai
+C:\project\1012 ABA\graphics\harvest_alaska\harvest_alaska.ai
+C:\project\1012 ABA\graphics\harvest_inuit\harvest_inuit.ai
+C:\project\1012 ABA\graphics\harvest_nwt\harvest_nwt.ai
+C:\project\1012 ABA\graphics\harvest_nwt\harvest_nwt_ot.ai
+C:\project\1012 ABA\graphics\icecovertrends\icecovertrends.ai
+C:\project\1012 ABA\graphics\indcatorsoverview\indicatorsoverview_ecosystems_ot.ai
+C:\project\1012 ABA\graphics\indcatorsoverview\indicatorsoverview_species_ot.ai
+C:\project\1012 ABA\graphics\invasivehydrilla\invasivehydrilla.ai
+C:\project\1012 ABA\graphics\lakes_oldcrowflats\lakes_oldcrowflats.ai
+C:\project\1012 ABA\graphics\linguistics_map\linguistics_map.ai
+C:\project\1012 ABA\graphics\linguistics_map\linguistics_maplegend.ai
+C:\project\1012 ABA\graphics\linguistics_populationsize\linguistics_populationsize.ai
+C:\project\1012 ABA\graphics\linguistics_speakerschart\linguistics_speakerschart.ai
+C:\project\1012 ABA\graphics\linguistics_vitality\linguistics_vitality.ai
+C:\project\1012 ABA\graphics\murremap\murremap.ai
+C:\project\1012 ABA\graphics\murretrends\murretrends.ai
+C:\project\1012 ABA\graphics\murre_chart\murrechart.ai
+C:\project\1012 ABA\graphics\peatloss\peatloss.ai
+C:\project\1012 ABA\graphics\peat_chart\peat_chart_ot.ai
+C:\project\1012 ABA\graphics\peat_map\peat_map.ai
+C:\project\1012 ABA\graphics\permafrost\permafrost_a.ai
+C:\project\1012 ABA\graphics\permafrost\permafrost_b_ot.ai
+C:\project\1012 ABA\graphics\permafrost\permafrost_cd.ai
+C:\project\1012 ABA\graphics\phenology_zackenberg\phenology.ai
+C:\project\1012 ABA\graphics\polarbears\polarbear.ai
+C:\project\1012 ABA\graphics\protectedareas_map\protectedareas_map.ai
+C:\project\1012 ABA\graphics\protectedareas_trends\protectedareas_trends.ai
+C:\project\1012 ABA\graphics\rangifer_chart\rangifer_chart.ai
+C:\project\1012 ABA\graphics\rangifer_map\rangifer_map.ai
+C:\project\1012 ABA\graphics\redknot\redknotmigration.ai
+C:\project\1012 ABA\graphics\reindeerherding_norway\reindeerherding_norway.ai
+C:\project\1012 ABA\graphics\reindeerherding_siberia\reindeerherding_siberia.ai
+C:\project\1012 ABA\graphics\seaice_web\seaice_web.ai
+C:\project\1012 ABA\graphics\shipping\invasive_shipping.ai
+C:\project\1012 ABA\graphics\shorebirds_status\shorebirds_status.ai
+C:\project\1012 ABA\graphics\snowcovertrends\snowcovertrends.ai
+C:\project\1012 ABA\graphics\speciesindex\speciesindex_ot.ai
+C:\project\1012 ABA\graphics\stressors\stressors.ai
+C:\project\1012 ABA\graphics\topo\topo.ai
+C:\project\1012 ABA\graphics\_output\arcticchar.ai
+C:\project\1012 ABA\graphics\_output\asti_locations.ai
+C:\project\1012 ABA\graphics\_output\asti_trends.ai
+C:\project\1012 ABA\graphics\_output\eidercommon.ai
+C:\project\1012 ABA\graphics\_output\extent.ai
+C:\project\1012 ABA\graphics\_output\fishdistribution.ai
+C:\project\1012 ABA\graphics\_output\fishproduction.ai
+C:\project\1012 ABA\graphics\_output\geneticdiversity.ai
+C:\project\1012 ABA\graphics\_output\greening.ai
+C:\project\1012 ABA\graphics\_output\greening_chart.ai
+C:\project\1012 ABA\graphics\_output\harvest_alaska.ai
+C:\project\1012 ABA\graphics\_output\harvest_inuit.ai
+C:\project\1012 ABA\graphics\_output\harvest_nwt.ai
+C:\project\1012 ABA\graphics\_output\harvest_nwt_ot.ai
+C:\project\1012 ABA\graphics\_output\icecovertrends.ai
+C:\project\1012 ABA\graphics\_output\indicatorsoverview_ecosystems_ot.ai
+C:\project\1012 ABA\graphics\_output\indicatorsoverview_species_ot.ai
+C:\project\1012 ABA\graphics\_output\invasivehydrilla.ai
+C:\project\1012 ABA\graphics\_output\invasive_shipping.ai
+C:\project\1012 ABA\graphics\_output\lakes_oldcrowflats.ai
+C:\project\1012 ABA\graphics\_output\linguistics_map.ai
+C:\project\1012 ABA\graphics\_output\linguistics_maplegend.ai
+C:\project\1012 ABA\graphics\_output\linguistics_populationsize.ai
+C:\project\1012 ABA\graphics\_output\linguistics_speakerschart.ai
+C:\project\1012 ABA\graphics\_output\linguistics_vitality.ai
+C:\project\1012 ABA\graphics\_output\murrechart.ai
+C:\project\1012 ABA\graphics\_output\murremap.ai
+C:\project\1012 ABA\graphics\_output\murretrends.ai
+C:\project\1012 ABA\graphics\_output\peatloss.ai
+C:\project\1012 ABA\graphics\_output\peat_chart_ot.ai
+C:\project\1012 ABA\graphics\_output\peat_map.ai
+C:\project\1012 ABA\graphics\_output\permafrost_a.ai
+C:\project\1012 ABA\graphics\_output\permafrost_b_ot.ai
+C:\project\1012 ABA\graphics\_output\permafrost_cd.ai
+C:\project\1012 ABA\graphics\_output\phenology.ai
+C:\project\1012 ABA\graphics\_output\polarbear.ai
+C:\project\1012 ABA\graphics\_output\protectedareas_map.ai
+C:\project\1012 ABA\graphics\_output\protectedareas_trends.ai
+C:\project\1012 ABA\graphics\_output\rangifer_chart.ai
+C:\project\1012 ABA\graphics\_output\rangifer_map.ai
+C:\project\1012 ABA\graphics\_output\redknotmigration.ai
+C:\project\1012 ABA\graphics\_output\reindeerherding_norway.ai
+C:\project\1012 ABA\graphics\_output\reindeerherding_siberia.ai
+C:\project\1012 ABA\graphics\_output\seaice_web.ai
+C:\project\1012 ABA\graphics\_output\shorebirds_status.ai
+C:\project\1012 ABA\graphics\_output\snowcovertrends.ai
+C:\project\1012 ABA\graphics\_output\speciesindex_ot.ai
+C:\project\1012 ABA\graphics\_output\stressors.ai
+C:\project\1012 ABA\graphics\_output\topo.ai
+C:\project\1012 ABA\graphics\_output\worldconnections.ai
+C:\project\1015 Effekt\graphics\gotaalv\gotaalv.ai
+C:\project\1015 Effekt\graphics\goteborg\goteborg.ai
+C:\project\1015 Effekt\graphics\malmo\malmo.ai
+C:\project\1015 Effekt\graphics\skane\skane.ai
+C:\project\1015 Effekt\graphics\_output\gotaalv.ai
+C:\project\1015 Effekt\graphics\_output\goteborg.ai
+C:\project\1015 Effekt\graphics\_output\malmo.ai
+C:\project\1015 Effekt\graphics\_output\skane.ai
+C:\project\1018 UNECE climate\graphics\00_cover\00_cover4.ai
+C:\project\1018 UNECE climate\graphics\00_cover\00_cover_ot.ai
+C:\project\1018 UNECE climate\graphics\01_globalscheme\01_globalscheme.ai
+C:\project\1018 UNECE climate\graphics\02_temperature\02_temperature.ai
+C:\project\1018 UNECE climate\graphics\03_emissionscartogram\03_emissionscartogram.ai
+C:\project\1018 UNECE climate\graphics\04_sectoremissions\04_sectoremissions.ai
+C:\project\1018 UNECE climate\graphics\05_emissionsvswealth\05_emissionsvswealth.ai
+C:\project\1018 UNECE climate\graphics\06_regionalimpacts\06_regionalimpacts.ai
+C:\project\1018 UNECE climate\graphics\07_europeimpacts\07_europeimpacts.ai
+C:\project\1018 UNECE climate\graphics\08_centralasiaimpacts\08_centralasiaimpacts.ai
+C:\project\1018 UNECE climate\graphics\10_northamericaimpacts\10_northamericaimpacts.ai
+C:\project\1018 UNECE climate\graphics\11_mitigationcosts\11_mitigationcosts.ai
+C:\project\1018 UNECE climate\graphics\13_adaptationoptions\13_adaptationoptions.ai
+C:\project\1018 UNECE climate\graphics\14_gdppopghg\14_gdppopghg.ai
+C:\project\1018 UNECE climate\graphics\_output\00_cover4.ai
+C:\project\1018 UNECE climate\graphics\_output\00_cover_ot.ai
+C:\project\1018 UNECE climate\graphics\_output\01_globalscheme.ai
+C:\project\1018 UNECE climate\graphics\_output\02_temperature.ai
+C:\project\1018 UNECE climate\graphics\_output\03_emissionscartogram.ai
+C:\project\1018 UNECE climate\graphics\_output\04_sectoremissions.ai
+C:\project\1018 UNECE climate\graphics\_output\05_emissionsvswealth.ai
+C:\project\1018 UNECE climate\graphics\_output\06_regionalimpacts.ai
+C:\project\1018 UNECE climate\graphics\_output\07_europeimpacts.ai
+C:\project\1018 UNECE climate\graphics\_output\08_centralasiaimpacts.ai
+C:\project\1018 UNECE climate\graphics\_output\10_northamericaimpacts.ai
+C:\project\1018 UNECE climate\graphics\_output\11_mitigationcosts.ai
+C:\project\1018 UNECE climate\graphics\_output\13_adaptationoptions.ai
+C:\project\1018 UNECE climate\graphics\_output\14_gdppopghg.ai
+C:\project\1019 CAFF Secretariat\graphics\asti_chart\astiterrestrial.ai
+C:\project\1019 CAFF Secretariat\graphics\asti_locations\asti_locations.ai
+C:\project\1019 CAFF Secretariat\graphics\_output\astiterrestrial.ai
+C:\project\1019 CAFF Secretariat\graphics\_output\asti_locations.ai
+C:\project\1020 Zoi mix\graphics\mediterranean_emissions\bubbles_mediterranean.ai
+C:\project\1020 Zoi mix\graphics\_output\bubbles_mediterranean.ai
+C:\project\1021 Bali posters\graphics\about_membersmap\about_membersmap.ai
+C:\project\1021 Bali posters\graphics\about_timeline\about_timeline.ai
+C:\project\1021 Bali posters\graphics\mdg_impactchain\mdg_impactchain.ai
+C:\project\1021 Bali posters\graphics\purpose\purpose.ai
+C:\project\1021 Bali posters\graphics\regional_flows\regional_flows_ot.ai
+C:\project\1021 Bali posters\graphics\regional_trends\regional_trends.ai
+C:\project\1021 Bali posters\graphics\trends_amongcountries\trends_amongcountriesexport.ai
+C:\project\1021 Bali posters\graphics\trends_amongcountries\trends_amongcountriesimport.ai
+C:\project\1021 Bali posters\graphics\trends_reportingparties\trends_reportingparties.ai
+C:\project\1021 Bali posters\graphics\trends_wastemain\trends_wastemain.ai
+C:\project\1021 Bali posters\graphics\_output\about_membersmap.ai
+C:\project\1021 Bali posters\graphics\_output\about_timeline.ai
+C:\project\1021 Bali posters\graphics\_output\mdg_impactchain.ai
+C:\project\1021 Bali posters\graphics\_output\purpose.ai
+C:\project\1021 Bali posters\graphics\_output\regional_flows_ot.ai
+C:\project\1021 Bali posters\graphics\_output\regional_trends.ai
+C:\project\1021 Bali posters\graphics\_output\trends_amongcountriesexport.ai
+C:\project\1021 Bali posters\graphics\_output\trends_amongcountriesimport.ai
+C:\project\1021 Bali posters\graphics\_output\trends_reportingparties.ai
+C:\project\1021 Bali posters\graphics\_output\trends_wastemain.ai
+C:\project\1022 Arctic Conventions\graphics\defined\arctic_defined.ai
+C:\project\1022 Arctic Conventions\graphics\finnmark\finnmark_roaddev_ot.ai
+C:\project\1022 Arctic Conventions\graphics\languages\languagemap.ai
+C:\project\1022 Arctic Conventions\graphics\protectedareas\protectedareas_map.ai
+C:\project\1022 Arctic Conventions\graphics\protectedareas\protectedareas_map_wh.ai
+C:\project\1022 Arctic Conventions\graphics\reindeer_and_caribou\rangifer_map.ai
+C:\project\1022 Arctic Conventions\graphics\topo\topo.ai
+C:\project\1022 Arctic Conventions\graphics\_output\arctic_defined.ai
+C:\project\1022 Arctic Conventions\graphics\_output\finnmark_roaddev_ot.ai
+C:\project\1022 Arctic Conventions\graphics\_output\languagemap.ai
+C:\project\1022 Arctic Conventions\graphics\_output\protectedareas_map.ai
+C:\project\1022 Arctic Conventions\graphics\_output\protectedareas_map_wh.ai
+C:\project\1022 Arctic Conventions\graphics\_output\rangifer_map.ai
+C:\project\1022 Arctic Conventions\graphics\_output\topo.ai
+C:\project\1023 UArctic Map Revision\graphics\allcampus\allcampus.ai
+C:\project\1023 UArctic Map Revision\graphics\allmembers\membersmap_all.ai
+C:\project\1023 UArctic Map Revision\graphics\ipy\membersmap_ipy.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test01.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test02.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test03.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test04.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test05.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test06.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test07.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test08.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test09.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test10.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test11.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test12.ai
+C:\project\1023 UArctic Map Revision\graphics\n2n\north2north2008_2009_test13.ai
+C:\project\1023 UArctic Map Revision\graphics\tn\themenetworks.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\allcampus.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\membersmap_all.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\membersmap_ipy.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test01.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test02.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test03.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test04.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test05.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test06.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test07.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test08.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test09.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test10.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test11.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\north2north2008_2009_test12.ai
+C:\project\1023 UArctic Map Revision\graphics\_output\themenetworks.ai
+C:\project\1024 TWAP indicators\graphics\basins\countries.ai
+C:\project\1024 TWAP indicators\graphics\basins\countries_hdi.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds_countcountries.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds_countries.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds_hdiweighted.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds_ismajority.ai
+C:\project\1024 TWAP indicators\graphics\basins\majorwatersheds_transboundary.ai
+C:\project\1024 TWAP indicators\graphics\_output\countries.ai
+C:\project\1024 TWAP indicators\graphics\_output\countries_hdi.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds_countcountries.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds_countries.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds_hdiweighted.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds_ismajority.ai
+C:\project\1024 TWAP indicators\graphics\_output\majorwatersheds_transboundary.ai
+C:\project\1025 SEI small tasks\graphics\sthlm\sthlmslan.ai
+C:\project\1025 SEI small tasks\graphics\sthlm\sthlmslan_sv.ai
+C:\project\1025 SEI small tasks\graphics\_output\sthlmslan.ai
+C:\project\1027 SIWI early warning\graphics\agriculture\agriculture.ai
+C:\project\1027 SIWI early warning\graphics\bluewater_crop\bluewater_cropland.ai
+C:\project\1027 SIWI early warning\graphics\ciesin_drought\ciesin_drought.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_afghanistan.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_burkinafaso.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_ethiopia.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_morocco.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_sudan.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_yemen.ai
+C:\project\1027 SIWI early warning\graphics\climographs\precipitation_zimbabwe.ai
+C:\project\1027 SIWI early warning\graphics\dryyears\dry400.ai
+C:\project\1027 SIWI early warning\graphics\dryyears\dry600.ai
+C:\project\1027 SIWI early warning\graphics\evapotranspiration\evapotranspiration.ai
+C:\project\1027 SIWI early warning\graphics\fractional_water\greenblue.ai
+C:\project\1027 SIWI early warning\graphics\greenwater_crop\greencrop.ai
+C:\project\1027 SIWI early warning\graphics\groundwater\groundwater.ai
+C:\project\1027 SIWI early warning\graphics\groups\countrygroups.ai
+C:\project\1027 SIWI early warning\graphics\hdi\countries_hdi.ai
+C:\project\1027 SIWI early warning\graphics\popdens\popdens.ai
+C:\project\1027 SIWI early warning\graphics\precipitation_average\precipitation_current.ai
+C:\project\1027 SIWI early warning\graphics\preciptation_now\precipitationvuln_2050.ai
+C:\project\1027 SIWI early warning\graphics\preciptation_now\precipitationvuln_2090.ai
+C:\project\1027 SIWI early warning\graphics\preciptation_now\precipitationvuln_current.ai
+C:\project\1027 SIWI early warning\graphics\preview_droughtcv\droughtcv.ai
+C:\project\1027 SIWI early warning\graphics\runoff\runoff.ai
+C:\project\1027 SIWI early warning\graphics\_output\agriculture.ai
+C:\project\1027 SIWI early warning\graphics\_output\bluewater_cropland.ai
+C:\project\1027 SIWI early warning\graphics\_output\ciesin_drought.ai
+C:\project\1027 SIWI early warning\graphics\_output\countries_hdi.ai
+C:\project\1027 SIWI early warning\graphics\_output\countrygroups.ai
+C:\project\1027 SIWI early warning\graphics\_output\droughtcv.ai
+C:\project\1027 SIWI early warning\graphics\_output\dry400.ai
+C:\project\1027 SIWI early warning\graphics\_output\dry600.ai
+C:\project\1027 SIWI early warning\graphics\_output\evapotranspiration.ai
+C:\project\1027 SIWI early warning\graphics\_output\greenblue.ai
+C:\project\1027 SIWI early warning\graphics\_output\greencrop.ai
+C:\project\1027 SIWI early warning\graphics\_output\groundwater.ai
+C:\project\1027 SIWI early warning\graphics\_output\popdens.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitationvuln_2050.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitationvuln_2090.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitationvuln_current.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_afghanistan.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_burkinafaso.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_current.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_ethiopia.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_morocco.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_sudan.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_yemen.ai
+C:\project\1027 SIWI early warning\graphics\_output\precipitation_zimbabwe.ai
+C:\project\1027 SIWI early warning\graphics\_output\runoff.ai
+C:\project\1031 Taby\graphics\uni_city_taby_k3\uni_city_taby_k3.ai
+C:\project\1031 Taby\graphics\uni_nordics_sweden_k4\uni_nordics_sweden_k4.ai
+C:\project\1031 Taby\graphics\uni_region_malardalen_taby_k4\uni_region_malardalen_taby_k4.ai
+C:\project\1031 Taby\graphics\uni_region_malardalen_taby_k4\uni_region_malardalen_taby_k4_ot.ai
+C:\project\1031 Taby\graphics\uni_region_taby_catchment_k2\uni_region_taby_catchment_k2.ai
+C:\project\1031 Taby\graphics\_output\uni_city_taby_k3.ai
+C:\project\1031 Taby\graphics\_output\uni_nordics_sweden_k4.ai
+C:\project\1031 Taby\graphics\_output\uni_region_malardalen_taby_k4.ai
+C:\project\1031 Taby\graphics\_output\uni_region_malardalen_taby_k4_ot.ai
+C:\project\1031 Taby\graphics\_output\uni_region_taby_catchment_k2.ai
+C:\project\1036 FLISE\graphics\fia_system\fia_system1a.ai
+C:\project\1036 FLISE\graphics\logo\logo24.ai
+C:\project\1036 FLISE\graphics\logo\logo24_bw.ai
+C:\project\1036 FLISE\graphics\logo\logo24_small.ai
+C:\project\1036 FLISE\graphics\logo\logo24_small_bw.ai
+C:\project\1036 FLISE\graphics\logo\logo24_small_bw_notext.ai
+C:\project\1036 FLISE\graphics\logo\logo24_small_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictograms10.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictograms10a.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictograms10a_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictograms10_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_blossom_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_forwardlooking_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_indicators_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_megatrends_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_scenarios_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\ws\pictogram_tools_ot.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_blossom.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_blossom_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_blossom_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_forwardlooking.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_forwardlooking_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_forwardlooking_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_indicators.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_indicators_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_indicators_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_megatrends.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_megatrends_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_megatrends_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_scenarios.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_scenarios_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_scenarios_notext.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_tools.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_tools_alt.ai
+C:\project\1036 FLISE\graphics\pictograms\pictogram_tools_notext.ai
+C:\project\1036 FLISE\graphics\platform\fia_platform1.ai
+C:\project\1036 FLISE\graphics\system_neighbours\ws\system_neighbours1_ot.ai
+C:\project\1036 FLISE\graphics\system_neighbours\system_neighbours1.ai
+C:\project\1036 FLISE\graphics\system_neighbours\system_neighbours1a.ai
+C:\project\1036 FLISE\graphics\_output\fia_platform1.ai
+C:\project\1036 FLISE\graphics\_output\fia_system1a.ai
+C:\project\1036 FLISE\graphics\_output\logo24.ai
+C:\project\1036 FLISE\graphics\_output\logo24_bw.ai
+C:\project\1036 FLISE\graphics\_output\logo24_small.ai
+C:\project\1036 FLISE\graphics\_output\logo24_small_bw.ai
+C:\project\1036 FLISE\graphics\_output\logo24_small_bw_notext.ai
+C:\project\1036 FLISE\graphics\_output\logo24_small_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_blossom.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_blossom_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_blossom_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_forwardlooking.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_forwardlooking_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_forwardlooking_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_indicators.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_indicators_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_indicators_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_megatrends.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_megatrends_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_megatrends_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_scenarios.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_scenarios_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_scenarios_notext.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_tools.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_tools_alt.ai
+C:\project\1036 FLISE\graphics\_output\pictogram_tools_notext.ai
+C:\project\1036 FLISE\graphics\_output\system_neighbours1.ai
+C:\project\1036 FLISE\graphics\_output\system_neighbours1a.ai
+C:\project\1037 AMAP SWIPA\graphics\02_permafrostinterglacial\fig02_permafrostinterglacial_a.ai
+C:\project\1037 AMAP SWIPA\graphics\02_permafrostinterglacial\fig02_permafrostinterglacial_b.ai
+C:\project\1037 AMAP SWIPA\graphics\02_permafrostinterglacial\fig02_permafrostinterglacial_c.ai
+C:\project\1037 AMAP SWIPA\graphics\04_permafrost\fig04_permafrost.ai
+C:\project\1037 AMAP SWIPA\graphics\05_subsea\fig05_subseaice.ai
+C:\project\1037 AMAP SWIPA\graphics\06_ipygroundtemp\fig06_ipygroundtemp.ai
+C:\project\1037 AMAP SWIPA\graphics\08_calm\fig08_calmsites.ai
+C:\project\1037 AMAP SWIPA\graphics\10_groundtempscenarios\fig10_groundtempscenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\11_alaskaclimatescenarios\fig11_alaskaclimatescenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\12_alaskaaltscenarios\fig12_alaskaaltscenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\14_gipl_yamal\fig14_giplyamal.ai
+C:\project\1037 AMAP SWIPA\graphics\16_thermokarstlakes\fig16_thermokarstlakes.ai
+C:\project\1037 AMAP SWIPA\graphics\17_stordalen_waterlogging\fig17_stordalen_waterlogging.ai
+C:\project\1037 AMAP SWIPA\graphics\27_coastal\fig27_coastal.ai
+C:\project\1037 AMAP SWIPA\graphics\30_stordalenco2\fig30_stordalen_co2.ai
+C:\project\1037 AMAP SWIPA\graphics\31_eastsiberianfluxes\fig31_eastsiberianfluxes.ai
+C:\project\1037 AMAP SWIPA\graphics\32_dissolvedmethane_eastsiberia\fig32_dissolvedmethane_eastsiberia.ai
+C:\project\1037 AMAP SWIPA\graphics\38_probalisticalt\fig38_eurasia_altprobs.ai
+C:\project\1037 AMAP SWIPA\graphics\co03_modeledcontaminants\co03_modeledcontaminants.ai
+C:\project\1037 AMAP SWIPA\graphics\globaltemperature2009\globaltemperature2009_a.ai
+C:\project\1037 AMAP SWIPA\graphics\globaltemperature2009\globaltemperature2009_b.ai
+C:\project\1037 AMAP SWIPA\graphics\hd05_transportation\hd05_transportation.ai
+C:\project\1037 AMAP SWIPA\graphics\hd08_hydrocarbons\hd08_hydrocarbons.ai
+C:\project\1037 AMAP SWIPA\graphics\intro01_anomalies\intro01_anomalies.ai
+C:\project\1037 AMAP SWIPA\graphics\intro02_forcing\intro01_forcing.ai
+C:\project\1037 AMAP SWIPA\graphics\l100 canada changes 2050\l100_canada2050changes.ai
+C:\project\1037 AMAP SWIPA\graphics\l110_simulatedlakes\l110_simulatedlakes.ai
+C:\project\1037 AMAP SWIPA\graphics\l180_lakeprofiles\l180_lakeprofiles.ai
+C:\project\1037 AMAP SWIPA\graphics\m020_januaryrms\m020_januaryrms.ai
+C:\project\1037 AMAP SWIPA\graphics\m040 mean temperature\m040_meantemp.ai
+C:\project\1037 AMAP SWIPA\graphics\m050 winter patterns 1951-2000\m050_winterpatterns.ai
+C:\project\1037 AMAP SWIPA\graphics\m060 projected changes\m060_projectedchanges.ai
+C:\project\1037 AMAP SWIPA\graphics\m070 projected precipitation\m070_projectedprecipitation.ai
+C:\project\1037 AMAP SWIPA\graphics\observe03_ghcnstationssnow\observe03_snowstations.ai
+C:\project\1037 AMAP SWIPA\graphics\observe04_soiltempstations\observe04_soiltempstations.ai
+C:\project\1037 AMAP SWIPA\graphics\observe05_lakeice\observe05_lakeice.ai
+C:\project\1037 AMAP SWIPA\graphics\si020_seaice\si020_seaice.ai
+C:\project\1037 AMAP SWIPA\graphics\si110_northpolesummerice\si110_northpolesummerice.ai
+C:\project\1037 AMAP SWIPA\graphics\si220_solarheattrend\si220_solarheattrend.ai
+C:\project\1037 AMAP SWIPA\graphics\si260_allskysurfacetrends\si260_allskysurfacetrends.ai
+C:\project\1037 AMAP SWIPA\graphics\si280_seaicedistro\si280_seaicedistro.ai
+C:\project\1037 AMAP SWIPA\graphics\si340_productivity\si340_productivity.ai
+C:\project\1037 AMAP SWIPA\graphics\si390b_settlements\si390b_settlements.ai
+C:\project\1037 AMAP SWIPA\graphics\si390_indigenous\si390_linguistics.ai
+C:\project\1037 AMAP SWIPA\graphics\si400_shippingroutes\si400_routes.ai
+C:\project\1037 AMAP SWIPA\graphics\si400_shippingroutes\si400_shippingroutes_c.ai
+C:\project\1037 AMAP SWIPA\graphics\si400_shippingroutes\si400_shipproutes_a.ai
+C:\project\1037 AMAP SWIPA\graphics\si400_shippingroutes\si400_shipproutes_b.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\co03_modeledcontaminants.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig02_permafrostinterglacial_a.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig02_permafrostinterglacial_b.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig02_permafrostinterglacial_c.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig04_permafrost.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig05_subseaice.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig06_ipygroundtemp.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig08_calmsites.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig10_groundtempscenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig11_alaskaclimatescenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig12_alaskaaltscenarios.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig14_giplyamal.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig16_thermokarstlakes.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig17_stordalen_waterlogging.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig27_coastal.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig30_stordalen_co2.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig31_eastsiberianfluxes.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig32_dissolvedmethane_eastsiberia.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\fig38_eurasia_altprobs.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\globaltemperature2009_a.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\globaltemperature2009_b.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\hd05_transportation.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\hd08_hydrocarbons.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\intro01_anomalies.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\intro01_forcing.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\l100_canada2050changes.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\l110_simulatedlakes.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\l180_lakeprofiles.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\m020_januaryrms.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\m040_meantemp.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\m050_winterpatterns.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\m060_projectedchanges.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\m070_projectedprecipitation.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\observe03_snowstations.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\observe04_soiltempstations.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\observe05_lakeice.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si020_seaice.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si110_northpolesummerice.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si220_solarheattrend.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si260_allskysurfacetrends.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si280_seaicedistro.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si340_productivity.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si390b_settlements.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si390_linguistics.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si400_routes.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si400_shippingroutes_c.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si400_shipproutes_a.ai
+C:\project\1037 AMAP SWIPA\graphics\_output\si400_shipproutes_b.ai
+C:\project\1038 Globalis Rainforest\graphics\Bawazagba\bawazagba.ai
+C:\project\1038 Globalis Rainforest\graphics\carbonfluxlanduse\carbonfluxlanduse.ai
+C:\project\1038 Globalis Rainforest\graphics\carbonfluxlanduse_total\carbonfluxlanduse_total.ai
+C:\project\1038 Globalis Rainforest\graphics\deforestationcauses\deforestationcauses.ai
+C:\project\1038 Globalis Rainforest\graphics\deforestationrate\deforestationrate.ai
+C:\project\1038 Globalis Rainforest\graphics\deforestation_region\deforestation_region.ai
+C:\project\1038 Globalis Rainforest\graphics\ecosystemservices\forestecosystemservices.ai
+C:\project\1038 Globalis Rainforest\graphics\forestloss\forestloss.ai
+C:\project\1038 Globalis Rainforest\graphics\forestmap2\forestmap2_embed.ai
+C:\project\1038 Globalis Rainforest\graphics\plantthreat\plantthreat.ai
+C:\project\1038 Globalis Rainforest\graphics\reddfunding\reddfunding.ai
+C:\project\1038 Globalis Rainforest\graphics\treespecies\treespecies.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\bawazagba.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\carbonfluxlanduse.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\carbonfluxlanduse_total.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\deforestationcauses.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\deforestationrate.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\deforestation_region.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\forestecosystemservices.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\forestloss.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\forestmap2_embed.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\plantthreat.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\reddfunding.ai
+C:\project\1038 Globalis Rainforest\graphics\_output\treespecies.ai
+C:\project\1039 SIWI Kaliningrad\graphics\basemap\neman_pregola.ai
+C:\project\1039 SIWI Kaliningrad\graphics\_output\neman_pregola.ai
+C:\project\1040 Water book\brochure\www2012\graphics\flows\flows.ai
+C:\project\1040 Water book\graphics\1_01 population water shortage\1_01_populationwatertrends.ai
+C:\project\1040 Water book\graphics\1_02 great acceleration\1_02_a_greatacceleration.ai
+C:\project\1040 Water book\graphics\1_02 great acceleration\1_02_b_greatacceleration.ai
+C:\project\1040 Water book\graphics\1_03 water hockey sticks\1_03_a_waterhockeysticks.ai
+C:\project\1040 Water book\graphics\1_03 water hockey sticks\1_03_b_waterhockeysticks.ai
+C:\project\1040 Water book\graphics\1_04 climate tipping points\1_04_climatetippingpoints.ai
+C:\project\1040 Water book\graphics\1_05 water tipping points overview\1_05_watertippingpointsoverview.ai
+C:\project\1040 Water book\graphics\1_06 temperaturehistory\1_06_temperaturehumanhistory.ai
+C:\project\1040 Water book\graphics\1_07 water scarcity quadrant\1_07_waterscarcityquadrant.ai
+C:\project\1040 Water book\graphics\1_07 water scarcity quadrant\1_07_waterscarcityquadrant_ot.ai
+C:\project\1040 Water book\graphics\1_08 planetary boundary processes\1_08_planetaryboundaryprocesses.ai
+C:\project\1040 Water book\graphics\1_09 planetary boundary status\1_09_planetaryboundarystatus.ai
+C:\project\1040 Water book\graphics\1_10 carbon sink\1_10_carbonsink.ai
+C:\project\1040 Water book\graphics\1_11 complex interactions\1_11_complexinteractions.ai
+C:\project\1040 Water book\graphics\1_12 resilience paradigm\1_12_resilience_paradigm.ai
+C:\project\1040 Water book\graphics\1_13 feedback flows\1_13_feedbackflows.ai
+C:\project\1040 Water book\graphics\1_14 conceptual framework\1_14_fullconceptualframework.ai
+C:\project\1040 Water book\graphics\1_15 water agenda_ot\1_15_wateragenda_ot.ai
+C:\project\1040 Water book\graphics\1_b1_1 DEU\1_b1_1a DEU.ai
+C:\project\1040 Water book\graphics\1_b4_1_ot partitioning\1_b4_1_a_partitioning_ot.ai
+C:\project\1040 Water book\graphics\1_b4_1_ot partitioning\1_b4_1_b_partitioning_ot.ai
+C:\project\1040 Water book\graphics\1_b5_1_ot landscape resilience\1_b5_1_buildinglandscaperesilience_ot.ai
+C:\project\1040 Water book\graphics\2_01 population trends\2_01_populationtrends_long.ai
+C:\project\1040 Water book\graphics\2_02 urban rural population\2_02_populationtrends_urbanrural.ai
+C:\project\1040 Water book\graphics\2_03 diet\ws\dietbubble.ai
+C:\project\1040 Water book\graphics\2_03 diet\2_03_dietarytrends.ai
+C:\project\1040 Water book\graphics\2_04 china water demand\2_04_chinawaterdemand.ai
+C:\project\1040 Water book\graphics\2_05 agricultural exports\2_05_agriculturalexports.ai
+C:\project\1040 Water book\graphics\2_06 soy production\2_06_soyproduction.ai
+C:\project\1040 Water book\graphics\2_07 land acquisitions\2_07_landacquisitions.ai
+C:\project\1040 Water book\graphics\2_08 Major MEAs\2_08_majormeas.ai
+C:\project\1040 Water book\graphics\2_09 Agriculture history\2_09_agriculturehistory.ai
+C:\project\1040 Water book\graphics\2_09 Agriculture history\2_09_agriculturehistory_ot.ai
+C:\project\1040 Water book\graphics\2_10 carbon sinks\2_10a_forestareatrends.ai
+C:\project\1040 Water book\graphics\2_10 carbon sinks\2_10b_carbonstocks.ai
+C:\project\1040 Water book\graphics\2_10 carbon sinks\2_10_carbonsinks_ot.ai
+C:\project\1040 Water book\graphics\2_11 irrigation trends\2_11_irrigationtrends.ai
+C:\project\1040 Water book\graphics\2_12 HANPP\2_12_hanppp.ai
+C:\project\1040 Water book\graphics\3_01 regime shifts\3_01_regimeshifts.ai
+C:\project\1040 Water book\graphics\3_02 shiftscales\3_02_shiftscales.ai
+C:\project\1040 Water book\graphics\3_03 water tipping points\3_03a_watertippingpoints_land.ai
+C:\project\1040 Water book\graphics\3_03 water tipping points\3_03b_watertippingpoints_water.ai
+C:\project\1040 Water book\graphics\3_03 water tipping points\3_03c_watertippingpoints_global.ai
+C:\project\1040 Water book\graphics\3_03 water tipping points\3_03c_watertippingpoints_global_ot.ai
+C:\project\1040 Water book\graphics\3_03 water tipping points\3_03d_waterstress.ai
+C:\project\1040 Water book\graphics\3_04 cascading thresholds\3_04_cascadingthresholds.ai
+C:\project\1040 Water book\graphics\3_05 conceptual smallholder farming\3_05_conceptual_smallholder_farming.ai
+C:\project\1040 Water book\graphics\3_06 feedback loops\3_06_feedbackloops.ai
+C:\project\1040 Water book\graphics\3_b1_1 Goulburn Broken panarchy\3_b1_1_goulburnbroken_panarchy.ai
+C:\project\1040 Water book\graphics\3_b2_1 uganda attraction basin\3_b2_1a_ugandaattractionbasin.ai
+C:\project\1040 Water book\graphics\3_b3_1 andes attraction basin\3_b3_1a_andesattractionbasin.ai
+C:\project\1040 Water book\graphics\4_01_hydrocycle\4_01_hydrocycle2.ai
+C:\project\1040 Water book\graphics\4_02 bloodstream\4_02a_bloodstream_gpptransp.ai
+C:\project\1040 Water book\graphics\4_02 bloodstream\4_02b_bloodstream_vegctransp.ai
+C:\project\1040 Water book\graphics\4_03_greenbluefluxes\4_03_a_greenbluefluxes.ai
+C:\project\1040 Water book\graphics\4_03_greenbluefluxes\4_03_b_greenbluefluxes.ai
+C:\project\1040 Water book\graphics\4_04 Water cycling\4_04_watercycling.ai
+C:\project\1040 Water book\graphics\4_05 Greening Sahel\4_05_greeningafrica.ai
+C:\project\1040 Water book\graphics\4_06 evaporation difference\4_06_evaporationdifference.ai
+C:\project\1040 Water book\graphics\4_07 river discharge 2080\4_07_riverdischarge2080.ai
+C:\project\1040 Water book\graphics\4_08 sea level rise estuaries\4_08_sealevelrisevulnerableestuaries.ai
+C:\project\1040 Water book\graphics\4_09 extreme events\4_09_extremeeventstrend.ai
+C:\project\1040 Water book\graphics\4_09 extreme events\4_09_extremeeventstrend_ot.ai
+C:\project\1040 Water book\graphics\4_10 crops distance volume\4_10_crops_distance_volume.ai
+C:\project\1040 Water book\graphics\4_10 crops distance volume\4_10_crops_distance_volume_ot.ai
+C:\project\1040 Water book\graphics\4_11 water imports\4_11_vwwaterimports.ai
+C:\project\1040 Water book\graphics\4_12 water trade\4_12_waterbluegreentrade.ai
+C:\project\1040 Water book\graphics\4_13 waterscarce population\4_13_populationscale.ai
+C:\project\1040 Water book\graphics\4_14 CPWF basins\4_14_basins.ai
+C:\project\1040 Water book\graphics\4_14 CPWF basins\4_15_basins.ai
+C:\project\1040 Water book\graphics\4_15 basin water\4_15a_basinwater.ai
+C:\project\1040 Water book\graphics\4_15 basin water\4_15b_basinwater.ai
+C:\project\1040 Water book\graphics\4_15 basin water\4_15c_basinwater.ai
+C:\project\1040 Water book\graphics\4_16a basin precipitation\4_16a_basinprecipitation.ai
+C:\project\1040 Water book\graphics\4_16b nile basin precpshed\4_16b_nileprecipitationshed.ai
+C:\project\1040 Water book\graphics\4_17 basin gdp\4_17a_basin_gdp.ai
+C:\project\1040 Water book\graphics\4_17 basin gdp\4_17b_basin_ag_gdp_ot.ai
+C:\project\1040 Water book\graphics\4_18 basin pop scenario\4_18a_basindrivers.ai
+C:\project\1040 Water book\graphics\4_18 basin pop scenario\4_18b_basinscenario.ai
+C:\project\1040 Water book\graphics\4_19 Stylized trends in basin poverty\4_19_stylizedbasintrends.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_a.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_a_ot.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_b.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_b_ot.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_c.ai
+C:\project\1040 Water book\graphics\4_b2 india conversion\4_b2_indiaconversion_c_ot.ai
+C:\project\1040 Water book\graphics\4_b3_1 rainstormcycle w mediterranean\4_b3_1_rainstormcycle_w_mediterranean.ai
+C:\project\1040 Water book\graphics\4_b4_1 moisture recycling\4_b4_1_moisturerecycling_a.ai
+C:\project\1040 Water book\graphics\4_b4_1 moisture recycling\4_b4_1_moisturerecycling_b.ai
+C:\project\1040 Water book\graphics\4_b4_1 moisture recycling\4_b4_1_moisturerecycling_c.ai
+C:\project\1040 Water book\graphics\4_b5_1 australiatrends\4_b5_1_australiatrends.ai
+C:\project\1040 Water book\graphics\4_b5_2 perth streamflow\4_b5_2_perth_streamflow.ai
+C:\project\1040 Water book\graphics\4_b6_1 groundwater\4_b6_1_groundwater_a.ai
+C:\project\1040 Water book\graphics\4_b6_1 groundwater\4_b6_1_groundwater_b.ai
+C:\project\1040 Water book\graphics\4_b6_1 groundwater\4_b6_1_groundwater_c.ai
+C:\project\1040 Water book\graphics\4_b8 landuse north china + high plains\4_b8_landuseplains.ai
+C:\project\1040 Water book\graphics\4_ot sufficiencyratio\4_14_sufficencyratio_ot.ai
+C:\project\1040 Water book\graphics\5_01 hunger + targets\5_01_hunger_targets.ai
+C:\project\1040 Water book\graphics\5_02_undernourishedmaps\5_02a_undernourished.ai
+C:\project\1040 Water book\graphics\5_02_undernourishedmaps\5_02b_populationincrease.ai
+C:\project\1040 Water book\graphics\5_03_diettrends\5_03_dietarytrends.ai
+C:\project\1040 Water book\graphics\5_04 undernourished vs diet\5_04_undernourishedvsdiet.ai
+C:\project\1040 Water book\graphics\5_05 diet projections\5_05_dietprojections.ai
+C:\project\1040 Water book\graphics\5_06 food wasteage\5_06_foodlosses.ai
+C:\project\1040 Water book\graphics\5_07 reducing food demand\5_07_waterdemand.ai
+C:\project\1040 Water book\graphics\5_08 water scenarios\5_08_waterscenarios.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09a_water2050.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09a_water2050_ot.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09b_water2050.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09b_water2050_ot.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09c_water2050.ai
+C:\project\1040 Water book\graphics\5_09 water 2050\5_09c_water2050_ot.ai
+C:\project\1040 Water book\graphics\5_10 summer climate\5_10_summerclimate.ai
+C:\project\1040 Water book\graphics\6_01 poverty + climate\6_01a_savanna.ai
+C:\project\1040 Water book\graphics\6_01 poverty + climate\6_01b_poverty.ai
+C:\project\1040 Water book\graphics\6_02 savannah partitioning\6_02_savannahpartitioning.ai
+C:\project\1040 Water book\graphics\6_03 africa dry spells\6_03_africadryspells.ai
+C:\project\1040 Water book\graphics\6_04a yield gap ratios\6_04a_yieldgap.ai
+C:\project\1040 Water book\graphics\6_04b yield gaps\6_04b_yieldgaps.ai
+C:\project\1040 Water book\graphics\6_05 water system classification\6_05_watersystemclassification.ai
+C:\project\1040 Water book\graphics\6_07 water productivity\6_07_waterproductivity.ai
+C:\project\1040 Water book\graphics\6_08 SWIs feedbacks Makanya\6_08_swis_feedbacks_makanya.ai
+C:\project\1040 Water book\graphics\6_ot yield experiments\6_07_yieldexperiments_ot.ai
+C:\project\1040 Water book\graphics\7_01 SES and water\7_01a_SES_and_water.ai
+C:\project\1040 Water book\graphics\7_01 SES and water\7_01b_SES_and_water.ai
+C:\project\1040 Water book\graphics\7_02 SES water and feedbacks\7_02a_ses_water_feedbacks.ai
+C:\project\1040 Water book\graphics\7_02 SES water and feedbacks\7_02b_ses_water_feedbacks.ai
+C:\project\1040 Water book\graphics\7_03 processes scales\7_03_processes_scales.ai
+C:\project\1040 Water book\graphics\7_04_scales_impacts\7_04_scales_impacts.ai
+C:\project\1040 Water book\graphics\7_05 residence times\7_05_residencetime.ai
+C:\project\1040 Water book\graphics\7_06 analysis errors\7_06_analysiserrors.ai
+C:\project\1040 Water book\graphics\7_07 degraded_resilient_SES\7_07a_degraded_ses.ai
+C:\project\1040 Water book\graphics\7_07 degraded_resilient_SES\7_07b_resilient_ses.ai
+C:\project\1040 Water book\graphics\7_08 dam density vs volume\7_08_dam_density_vs_volume.ai
+C:\project\1040 Water book\graphics\7_09 hydro ESS\7_09_hydro_ess.ai
+C:\project\1040 Water book\graphics\7_10 states and dimensions\7_10_states_dimensions.ai
+C:\project\1040 Water book\graphics\7_11 cases rainfall regimes\7_11_cases_risk.ai
+C:\project\1040 Water book\graphics\7_12 kothapally catchment\7_12_kothapally.ai
+C:\project\1040 Water book\graphics\7_13 kothapally partitioning\7_13_kothapally_partitioning.ai
+C:\project\1040 Water book\graphics\7_14 ougadougou rainfall\7_14_ouadougourainfall.ai
+C:\project\1040 Water book\graphics\7_15 nariarle land use\7_15a_nariarle_landuse.ai
+C:\project\1040 Water book\graphics\7_15 nariarle land use\7_15b_nariarle_landuse.ai
+C:\project\1040 Water book\graphics\7_16 Cerrado\7_16_cerrado.ai
+C:\project\1040 Water book\graphics\7_17 brazil land use\7_17_brazillanduse.ai
+C:\project\1040 Water book\graphics\7_18 Rajasthan inflow\7_18_rajasthan_inflow.ai
+C:\project\1040 Water book\graphics\8_01 global interaction\8_01_globalinteraction.ai
+C:\project\1040 Water book\graphics\8_02 dimensions of ESS\8_02_dimensions_ess.ai
+C:\project\1040 Water book\graphics\8_03 floor management feedbacks\8_03_floodmgmt_feedbacks.ai
+C:\project\1040 Water book\graphics\8_04 transformation phases\8_04_transformationphases.ai
+C:\project\1040 Water book\graphics\8_05 triple loop\8_05_tripleloop.ai
+C:\project\1040 Water book\graphics\8_b2_1 paradigm shift\8_b2_1_paradigmshift.ai
+C:\project\1040 Water book\graphics\8_b2_1 paradigm shift\8_b2_1_paradigmshift2_ot.ai
+C:\project\1040 Water book\graphics\8_b2_1 paradigm shift\8_b2_1_paradigmshift3_ot.ai
+C:\project\1040 Water book\graphics\8_b2_1 paradigm shift\8_b2_1_paradigmshift_ot.ai
+C:\project\1040 Water book\graphics\8_b3_1 everglades mgmt history\8_b3_1_everglades_mgmt_history.ai
+C:\project\1040 Water book\graphics\9_01 resilience thinking\9_01_resiliencethinking.ai
+C:\project\1040 Water book\graphics\9_02 water cycle vulnerability\9_02_watercycle_vulnerability.ai
+C:\project\1040 Water book\graphics\9_03 tipping points revisited\9_03_tippingpoints2.ai
+C:\project\1040 Water book\graphics\9_03 tipping points revisited\9_03_tippingpoints2_ot.ai
+C:\project\1040 Water book\graphics\9_04 society and biosphere\9_04_society_and_biosphere.ai
+C:\project\1040 Water book\graphics\9_05 conceptual framing resilience\9_05_conceptual_framing.ai
+C:\project\1040 Water book\graphics\9_05 conceptual framing resilience\9_05_conceptual_framing_ot.ai
+C:\project\1040 Water book\graphics\9_05 conceptual framing resilience\9_05_conceptual_framing_ot2.ai
+C:\project\1040 Water book\graphics\9_06 water thinking\9_06_water_thinking_development.ai
+C:\project\1040 Water book\graphics\9_07 framework complex\9_07_frameworkcomplex.ai
+C:\project\1040 Water book\graphics\9_07 framework complex\9_07_frameworkcomplex_ot.ai
+C:\project\1040 Water book\graphics\_output\1_01_populationwatertrends.ai
+C:\project\1040 Water book\graphics\_output\1_02_a_greatacceleration.ai
+C:\project\1040 Water book\graphics\_output\1_02_b_greatacceleration.ai
+C:\project\1040 Water book\graphics\_output\1_03_a_waterhockeysticks.ai
+C:\project\1040 Water book\graphics\_output\1_03_b_waterhockeysticks.ai
+C:\project\1040 Water book\graphics\_output\1_04_climatetippingpoints.ai
+C:\project\1040 Water book\graphics\_output\1_05_watertippingpointsoverview.ai
+C:\project\1040 Water book\graphics\_output\1_06_temperaturehumanhistory.ai
+C:\project\1040 Water book\graphics\_output\1_07_waterscarcityquadrant.ai
+C:\project\1040 Water book\graphics\_output\1_07_waterscarcityquadrant_ot.ai
+C:\project\1040 Water book\graphics\_output\1_08_planetaryboundaryprocesses.ai
+C:\project\1040 Water book\graphics\_output\1_09_planetaryboundarystatus.ai
+C:\project\1040 Water book\graphics\_output\1_10_carbonsink.ai
+C:\project\1040 Water book\graphics\_output\1_11_complexinteractions.ai
+C:\project\1040 Water book\graphics\_output\1_12_resilience_paradigm.ai
+C:\project\1040 Water book\graphics\_output\1_13_feedbackflows.ai
+C:\project\1040 Water book\graphics\_output\1_14_fullconceptualframework.ai
+C:\project\1040 Water book\graphics\_output\1_15_wateragenda_ot.ai
+C:\project\1040 Water book\graphics\_output\1_b1_1a DEU.ai
+C:\project\1040 Water book\graphics\_output\1_b4_1_a_partitioning_ot.ai
+C:\project\1040 Water book\graphics\_output\1_b4_1_b_partitioning_ot.ai
+C:\project\1040 Water book\graphics\_output\1_b5_1_buildinglandscaperesilience_ot.ai
+C:\project\1040 Water book\graphics\_output\2_01_populationtrends_long.ai
+C:\project\1040 Water book\graphics\_output\2_02_populationtrends_urbanrural.ai
+C:\project\1040 Water book\graphics\_output\2_03_dietarytrends.ai
+C:\project\1040 Water book\graphics\_output\2_04_chinawaterdemand.ai
+C:\project\1040 Water book\graphics\_output\2_05_agriculturalexports.ai
+C:\project\1040 Water book\graphics\_output\2_06_soyproduction.ai
+C:\project\1040 Water book\graphics\_output\2_07_landacquisitions.ai
+C:\project\1040 Water book\graphics\_output\2_08_majormeas.ai
+C:\project\1040 Water book\graphics\_output\2_09_agriculturehistory.ai
+C:\project\1040 Water book\graphics\_output\2_09_agriculturehistory_ot.ai
+C:\project\1040 Water book\graphics\_output\2_10a_forestareatrends.ai
+C:\project\1040 Water book\graphics\_output\2_10b_carbonstocks.ai
+C:\project\1040 Water book\graphics\_output\2_10_carbonsinks_ot.ai
+C:\project\1040 Water book\graphics\_output\2_11_irrigationtrends.ai
+C:\project\1040 Water book\graphics\_output\2_12_hanppp.ai
+C:\project\1040 Water book\graphics\_output\3_01_regimeshifts.ai
+C:\project\1040 Water book\graphics\_output\3_02_shiftscales.ai
+C:\project\1040 Water book\graphics\_output\3_03a_watertippingpoints_land.ai
+C:\project\1040 Water book\graphics\_output\3_03b_watertippingpoints_water.ai
+C:\project\1040 Water book\graphics\_output\3_03c_watertippingpoints_global.ai
+C:\project\1040 Water book\graphics\_output\3_03c_watertippingpoints_global_ot.ai
+C:\project\1040 Water book\graphics\_output\3_03d_waterstress.ai
+C:\project\1040 Water book\graphics\_output\3_04_cascadingthresholds.ai
+C:\project\1040 Water book\graphics\_output\3_05_conceptual_smallholder_farming.ai
+C:\project\1040 Water book\graphics\_output\3_06_feedbackloops.ai
+C:\project\1040 Water book\graphics\_output\3_b1_1_goulburnbroken_panarchy.ai
+C:\project\1040 Water book\graphics\_output\3_b2_1a_ugandaattractionbasin.ai
+C:\project\1040 Water book\graphics\_output\3_b3_1a_andesattractionbasin.ai
+C:\project\1040 Water book\graphics\_output\4_01_hydrocycle2.ai
+C:\project\1040 Water book\graphics\_output\4_02a_bloodstream_gpptransp.ai
+C:\project\1040 Water book\graphics\_output\4_02b_bloodstream_vegctransp.ai
+C:\project\1040 Water book\graphics\_output\4_03_a_greenbluefluxes.ai
+C:\project\1040 Water book\graphics\_output\4_03_b_greenbluefluxes.ai
+C:\project\1040 Water book\graphics\_output\4_04_watercycling.ai
+C:\project\1040 Water book\graphics\_output\4_05_greeningafrica.ai
+C:\project\1040 Water book\graphics\_output\4_06_evaporationdifference.ai
+C:\project\1040 Water book\graphics\_output\4_07_riverdischarge2080.ai
+C:\project\1040 Water book\graphics\_output\4_08_sealevelrisevulnerableestuaries.ai
+C:\project\1040 Water book\graphics\_output\4_09_extremeeventstrend.ai
+C:\project\1040 Water book\graphics\_output\4_09_extremeeventstrend_ot.ai
+C:\project\1040 Water book\graphics\_output\4_10_crops_distance_volume.ai
+C:\project\1040 Water book\graphics\_output\4_10_crops_distance_volume_ot.ai
+C:\project\1040 Water book\graphics\_output\4_11_vwwaterimports.ai
+C:\project\1040 Water book\graphics\_output\4_12_waterbluegreentrade.ai
+C:\project\1040 Water book\graphics\_output\4_13_populationscale.ai
+C:\project\1040 Water book\graphics\_output\4_14_basins.ai
+C:\project\1040 Water book\graphics\_output\4_14_sufficencyratio_ot.ai
+C:\project\1040 Water book\graphics\_output\4_15a_basinwater.ai
+C:\project\1040 Water book\graphics\_output\4_15b_basinwater.ai
+C:\project\1040 Water book\graphics\_output\4_15c_basinwater.ai
+C:\project\1040 Water book\graphics\_output\4_15_basins.ai
+C:\project\1040 Water book\graphics\_output\4_16a_basinprecipitation.ai
+C:\project\1040 Water book\graphics\_output\4_16b_nileprecipitationshed.ai
+C:\project\1040 Water book\graphics\_output\4_17a_basin_gdp.ai
+C:\project\1040 Water book\graphics\_output\4_17b_basin_ag_gdp_ot.ai
+C:\project\1040 Water book\graphics\_output\4_18a_basindrivers.ai
+C:\project\1040 Water book\graphics\_output\4_18b_basinscenario.ai
+C:\project\1040 Water book\graphics\_output\4_19_stylizedbasintrends.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_a.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_a_ot.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_b.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_b_ot.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_c.ai
+C:\project\1040 Water book\graphics\_output\4_b2_indiaconversion_c_ot.ai
+C:\project\1040 Water book\graphics\_output\4_b3_1_rainstormcycle_w_mediterranean.ai
+C:\project\1040 Water book\graphics\_output\4_b4_1_moisturerecycling_a.ai
+C:\project\1040 Water book\graphics\_output\4_b4_1_moisturerecycling_b.ai
+C:\project\1040 Water book\graphics\_output\4_b4_1_moisturerecycling_c.ai
+C:\project\1040 Water book\graphics\_output\4_b5_1_australiatrends.ai
+C:\project\1040 Water book\graphics\_output\4_b5_2_perth_streamflow.ai
+C:\project\1040 Water book\graphics\_output\4_b6_1_groundwater_a.ai
+C:\project\1040 Water book\graphics\_output\4_b6_1_groundwater_b.ai
+C:\project\1040 Water book\graphics\_output\4_b6_1_groundwater_c.ai
+C:\project\1040 Water book\graphics\_output\4_b8_landuseplains.ai
+C:\project\1040 Water book\graphics\_output\5_01_hunger_targets.ai
+C:\project\1040 Water book\graphics\_output\5_02a_undernourished.ai
+C:\project\1040 Water book\graphics\_output\5_02b_populationincrease.ai
+C:\project\1040 Water book\graphics\_output\5_03_dietarytrends.ai
+C:\project\1040 Water book\graphics\_output\5_04_undernourishedvsdiet.ai
+C:\project\1040 Water book\graphics\_output\5_05_dietprojections.ai
+C:\project\1040 Water book\graphics\_output\5_06_foodlosses.ai
+C:\project\1040 Water book\graphics\_output\5_07_waterdemand.ai
+C:\project\1040 Water book\graphics\_output\5_08_waterscenarios.ai
+C:\project\1040 Water book\graphics\_output\5_09a_water2050.ai
+C:\project\1040 Water book\graphics\_output\5_09a_water2050_ot.ai
+C:\project\1040 Water book\graphics\_output\5_09b_water2050.ai
+C:\project\1040 Water book\graphics\_output\5_09b_water2050_ot.ai
+C:\project\1040 Water book\graphics\_output\5_09c_water2050.ai
+C:\project\1040 Water book\graphics\_output\5_09c_water2050_ot.ai
+C:\project\1040 Water book\graphics\_output\5_10_summerclimate.ai
+C:\project\1040 Water book\graphics\_output\6_01a_savanna.ai
+C:\project\1040 Water book\graphics\_output\6_01b_poverty.ai
+C:\project\1040 Water book\graphics\_output\6_02_savannahpartitioning.ai
+C:\project\1040 Water book\graphics\_output\6_03_africadryspells.ai
+C:\project\1040 Water book\graphics\_output\6_04a_yieldgap.ai
+C:\project\1040 Water book\graphics\_output\6_04b_yieldgaps.ai
+C:\project\1040 Water book\graphics\_output\6_05_watersystemclassification.ai
+C:\project\1040 Water book\graphics\_output\6_07_waterproductivity.ai
+C:\project\1040 Water book\graphics\_output\6_07_yieldexperiments_ot.ai
+C:\project\1040 Water book\graphics\_output\6_08_swis_feedbacks_makanya.ai
+C:\project\1040 Water book\graphics\_output\7_01a_SES_and_water.ai
+C:\project\1040 Water book\graphics\_output\7_01b_SES_and_water.ai
+C:\project\1040 Water book\graphics\_output\7_02a_ses_water_feedbacks.ai
+C:\project\1040 Water book\graphics\_output\7_02b_ses_water_feedbacks.ai
+C:\project\1040 Water book\graphics\_output\7_03_processes_scales.ai
+C:\project\1040 Water book\graphics\_output\7_04_scales_impacts.ai
+C:\project\1040 Water book\graphics\_output\7_05_residencetime.ai
+C:\project\1040 Water book\graphics\_output\7_06_analysiserrors.ai
+C:\project\1040 Water book\graphics\_output\7_07a_degraded_ses.ai
+C:\project\1040 Water book\graphics\_output\7_07b_resilient_ses.ai
+C:\project\1040 Water book\graphics\_output\7_08_dam_density_vs_volume.ai
+C:\project\1040 Water book\graphics\_output\7_09_hydro_ess.ai
+C:\project\1040 Water book\graphics\_output\7_10_states_dimensions.ai
+C:\project\1040 Water book\graphics\_output\7_11_cases_risk.ai
+C:\project\1040 Water book\graphics\_output\7_12_kothapally.ai
+C:\project\1040 Water book\graphics\_output\7_13_kothapally_partitioning.ai
+C:\project\1040 Water book\graphics\_output\7_14_ouadougourainfall.ai
+C:\project\1040 Water book\graphics\_output\7_15a_nariarle_landuse.ai
+C:\project\1040 Water book\graphics\_output\7_15b_nariarle_landuse.ai
+C:\project\1040 Water book\graphics\_output\7_16_cerrado.ai
+C:\project\1040 Water book\graphics\_output\7_17_brazillanduse.ai
+C:\project\1040 Water book\graphics\_output\7_18_rajasthan_inflow.ai
+C:\project\1040 Water book\graphics\_output\8_01_globalinteraction.ai
+C:\project\1040 Water book\graphics\_output\8_02_dimensions_ess.ai
+C:\project\1040 Water book\graphics\_output\8_03_floodmgmt_feedbacks.ai
+C:\project\1040 Water book\graphics\_output\8_04_transformationphases.ai
+C:\project\1040 Water book\graphics\_output\8_05_tripleloop.ai
+C:\project\1040 Water book\graphics\_output\8_b2_1_paradigmshift.ai
+C:\project\1040 Water book\graphics\_output\8_b2_1_paradigmshift2_ot.ai
+C:\project\1040 Water book\graphics\_output\8_b2_1_paradigmshift3_ot.ai
+C:\project\1040 Water book\graphics\_output\8_b2_1_paradigmshift_ot.ai
+C:\project\1040 Water book\graphics\_output\8_b3_1_everglades_mgmt_history.ai
+C:\project\1040 Water book\graphics\_output\9_01_resiliencethinking.ai
+C:\project\1040 Water book\graphics\_output\9_02_watercycle_vulnerability.ai
+C:\project\1040 Water book\graphics\_output\9_03_tippingpoints2.ai
+C:\project\1040 Water book\graphics\_output\9_03_tippingpoints2_ot.ai
+C:\project\1040 Water book\graphics\_output\9_04_society_and_biosphere.ai
+C:\project\1040 Water book\graphics\_output\9_05_conceptual_framing.ai
+C:\project\1040 Water book\graphics\_output\9_05_conceptual_framing_ot.ai
+C:\project\1040 Water book\graphics\_output\9_05_conceptual_framing_ot2.ai
+C:\project\1040 Water book\graphics\_output\9_06_water_thinking_development.ai
+C:\project\1040 Water book\graphics\_output\9_07_frameworkcomplex.ai
+C:\project\1040 Water book\graphics\_output\9_07_frameworkcomplex_ot.ai
+C:\project\1040 Water book\rollup\rollup_www2013.ai
+C:\project\1043 SIWI Nile\graphics\00_overview\overview.ai
+C:\project\1043 SIWI Nile\graphics\01_southsudan\southsudan.ai
+C:\project\1043 SIWI Nile\graphics\_output\overview.ai
+C:\project\1043 SIWI Nile\graphics\_output\southsudan.ai
+C:\project\1044 UArctic map\graphics\hi_map\hi_students.ai
+C:\project\1044 UArctic map\graphics\_output\hi_students.ai
+C:\project\1044 UArctic map\maps 2012\graphics\members_april2012\members_20120430_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\members_april2012\members_april2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\members_jan2012\members_jan2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\members_may2012\members_20120522_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\members_may2012\members_20120523.ai
+C:\project\1044 UArctic map\maps 2012\graphics\organization\organization_20120430.ai
+C:\project\1044 UArctic map\maps 2012\graphics\organization\organization_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\sizemap\sizemap.ai
+C:\project\1044 UArctic map\maps 2012\graphics\tn\thematicnetworkfeb2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\tn2\tn_all_20120430_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\tn2\tn_all_260312_alt_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\tn3\tn_all_20120605.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\members_20120430_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\members_20120522_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\members_20120523.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\members_april2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\members_jan2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\organization_20120430.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\organization_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\sizemap.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\thematicnetworkfeb2012_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\tn_all_20120430_ot.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\tn_all_20120605.ai
+C:\project\1044 UArctic map\maps 2012\graphics\_output\tn_all_260312_alt_ot.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\finnmark_2030\finnmark_2030.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\finnmark_2030\finnmark_2030_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\finnmark_layout\finnmark_layout.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\finnmark_now\finnmark_2010.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\finnmark_now\finnmark_2010_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\legend\legend.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\yamal_2030\yamal_2030.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\yamal_2030\yamal_2030_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\yamal_layout\yamal_layout.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\yamal_now\yamal_2010.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\yamal_now\yamal_2010_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\finnmark_2010.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\finnmark_2010_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\finnmark_2030.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\finnmark_2030_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\finnmark_layout.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\legend.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\yamal_2010.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\yamal_2010_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\yamal_2030.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\yamal_2030_alt.ai
+C:\project\1045 GLOBIO Yamal Finnmark\graphics\_output\yamal_layout.ai
+C:\project\1048 SEI lanskarta\graphics\county\county.ai
+C:\project\1048 SEI lanskarta\graphics\county\county_sv.ai
+C:\project\1048 SEI lanskarta\graphics\sthlm\sthlmslan.ai
+C:\project\1048 SEI lanskarta\graphics\sthlm\sthlmslan_sv.ai
+C:\project\1048 SEI lanskarta\graphics\_output\county.ai
+C:\project\1048 SEI lanskarta\graphics\_output\county_sv.ai
+C:\project\1048 SEI lanskarta\graphics\_output\sthlmslan.ai
+C:\project\1048 SEI lanskarta\graphics\_output\sthlmslan_sv.ai
+C:\project\1050 CAFF Protected Areas\graphics\Alaska\ws\alaska2_ot.ai
+C:\project\1050 CAFF Protected Areas\graphics\Alaska\ws\alaska_ot.ai
+C:\project\1050 CAFF Protected Areas\graphics\Alaska\alaska3.ai
+C:\project\1050 CAFF Protected Areas\graphics\Canada\canada1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Circumpolar\circumpolar1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Finland\finland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Greenland\greenland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Iceland\iceland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Norway\norway1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Russia\russia1.ai
+C:\project\1050 CAFF Protected Areas\graphics\Sweden\sweden1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\alaska3.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\canada1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\circumpolar1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\finland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\greenland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\iceland1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\norway1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\russia1.ai
+C:\project\1050 CAFF Protected Areas\graphics\_output\sweden1.ai
+C:\project\1052 Skogsrapport\graphics\skog\forest2_ot.ai
+C:\project\1052 Skogsrapport\graphics\skog\forest_en_bw.ai
+C:\project\1052 Skogsrapport\graphics\skog\forest_sv_bw.ai
+C:\project\1052 Skogsrapport\graphics\skog\forest_sv_col.ai
+C:\project\1052 Skogsrapport\graphics\_output\forest2_ot.ai
+C:\project\1052 Skogsrapport\graphics\_output\forest_en_bw.ai
+C:\project\1052 Skogsrapport\graphics\_output\forest_sv_bw.ai
+C:\project\1052 Skogsrapport\graphics\_output\forest_sv_col.ai
+C:\project\1056 Arctic Marine Map\graphics\map\arcticmarinezones.ai
+C:\project\1056 Arctic Marine Map\graphics\_output\arcticmarinezones.ai
+C:\project\1063 Dongsheng\graphics\dongsheng\dongsheng_ge.ai
+C:\project\1063 Dongsheng\graphics\dongsheng\dongsheng_ot.ai
+C:\project\1063 Dongsheng\graphics\_output\dongsheng_ge.ai
+C:\project\1063 Dongsheng\graphics\_output\dongsheng_ot.ai
+C:\project\1065 Reindeer UNFPII\graphics\climate\climate.ai
+C:\project\1065 Reindeer UNFPII\graphics\ecoregions\ecoregions.ai
+C:\project\1065 Reindeer UNFPII\graphics\globio\globio.ai
+C:\project\1065 Reindeer UNFPII\graphics\indigenous\indigenouslanguages.ai
+C:\project\1065 Reindeer UNFPII\graphics\infrastructure\infrastructure.ai
+C:\project\1065 Reindeer UNFPII\graphics\landcover\landcover.ai
+C:\project\1065 Reindeer UNFPII\graphics\permafrost\permafrost_change.ai
+C:\project\1065 Reindeer UNFPII\graphics\permafrost\permafrost_temp.ai
+C:\project\1065 Reindeer UNFPII\graphics\protectedareas\protectedareas.ai
+C:\project\1065 Reindeer UNFPII\graphics\reindeer husbandry + herds\rangifer_map.ai
+C:\project\1065 Reindeer UNFPII\graphics\topography\topography.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\climate.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\ecoregions.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\globio.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\indigenouslanguages.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\infrastructure.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\landcover.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\permafrost_change.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\permafrost_temp.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\protectedareas.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\rangifer_map.ai
+C:\project\1065 Reindeer UNFPII\graphics\_output\topography.ai
+C:\project\1066 Rasmus April 2012\graphics\palmoil\palmoil1.ai
+C:\project\1066 Rasmus April 2012\graphics\_output\palmoil1.ai
+C:\project\1067 UArctic Interactive\graphics\bg.ai
+C:\project\1070 AMAP AoA\graphics\2_01 carbonates and ph in seawater\2_01_carbonates_and_ph_in_seawater.ai
+C:\project\1070 AMAP AoA\graphics\2_02 ph and alkalinity\2_02_ph_and_alkalinity.ai
+C:\project\1070 AMAP AoA\graphics\2_03 co2 solubility and cooling\2_03_CO2_solubility_and_cooling.ai
+C:\project\1070 AMAP AoA\graphics\2_05 arctic ocean profile\2_05_arctic_ocean_profile.ai
+C:\project\1070 AMAP AoA\graphics\2_06 CaCO3 surface arctic ocean\2_06_surface_carbonite.ai
+C:\project\1070 AMAP AoA\graphics\2_06 CaCO3 surface arctic ocean\2_06_surface_carbonite_samplingpoints.ai
+C:\project\1070 AMAP AoA\graphics\2_08 dilution aragonite\2_08_dilution_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\2_10 sound absorptivity\2_10_sound_absorptivity_ot.ai
+C:\project\1070 AMAP AoA\graphics\2_12 recent ph\2_12_recent_ph.ai
+C:\project\1070 AMAP AoA\graphics\2_13 nordic aragonite\2_13_nordic_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\2_14 bering\2_14a_bering_currents.ai
+C:\project\1070 AMAP AoA\graphics\2_14 bering\2_14b_bering_currents.ai
+C:\project\1070 AMAP AoA\graphics\2_15 aragonite siberian seas\2_15_siberianseas.ai
+C:\project\1070 AMAP AoA\graphics\2_16 beaufort shelf\2_16a_shelfmap.ai
+C:\project\1070 AMAP AoA\graphics\2_16 beaufort shelf\2_16b_beaufort_ph.ai
+C:\project\1070 AMAP AoA\graphics\2_16 beaufort shelf\2_16c_beaufort_omegaar.ai
+C:\project\1070 AMAP AoA\graphics\2_17 Canadian Archipelago aragonite\2_17_canadian_archipelago_sections.ai
+C:\project\1070 AMAP AoA\graphics\2_17 Canadian Archipelago aragonite\2_17_canadian_archipelago_sections_ot.ai
+C:\project\1070 AMAP AoA\graphics\2_18 alaska gakkel\2_18_beringia2005.ai
+C:\project\1070 AMAP AoA\graphics\2_19 global aragonite SRESA2\2_19_global_aragonite_scenario.ai
+C:\project\1070 AMAP AoA\graphics\2_20 ph reduction due to methane\2_20_ph_reduction_due_to_methane.ai
+C:\project\1070 AMAP AoA\graphics\2_21 Laptev sea scenarios\2_21_laptev_scenarios.ai
+C:\project\1070 AMAP AoA\graphics\2_21 new 1 simulated sept ph\2_21_ph_models.ai
+C:\project\1070 AMAP AoA\graphics\2_21 new 1 simulated sept ph\2_21_scenarios_ph_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\2_21 new 2 multimodel aragonite\2_21_scenariocharts.ai
+C:\project\1070 AMAP AoA\graphics\2_24 Greenland sea ph\2_24_nordic_ph.ai
+C:\project\1070 AMAP AoA\graphics\2_25 nordic omega scenario\2_25_nordic_ar_o_scenario.ai
+C:\project\1070 AMAP AoA\graphics\_old\12 Nordic seas carbonbudget\2_12_nordic_seas_carbon.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_01_carbonates_and_ph_in_seawater.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_02_ph_and_alkalinity.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_03_CO2_solubility_and_cooling.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_05_arctic_ocean_profile.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_06_surface_carbonite.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_06_surface_carbonite_samplingpoints.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_08_dilution_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_10_sound_absorptivity_ot.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_12_recent_ph.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_13_nordic_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_14a_bering_currents.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_14b_bering_currents.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_15_siberianseas.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_16a_shelfmap.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_16b_beaufort_ph.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_16c_beaufort_omegaar.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_17_canadian_archipelago_sections.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_17_canadian_archipelago_sections_ot.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_18_beringia2005.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_19_global_aragonite_scenario.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_20_ph_reduction_due_to_methane.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_21_laptev_scenarios.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_21_ph_models.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_21_scenariocharts.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_21_scenarios_ph_aragonite.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_24_nordic_ph.ai
+C:\project\1070 AMAP AoA\graphics\_output\2_25_nordic_ar_o_scenario.ai
+C:\project\1072 Gibson maps\graphics\argentina\argentina.ai
+C:\project\1072 Gibson maps\graphics\lowerusa\lowerusa.ai
+C:\project\1072 Gibson maps\graphics\mexico\mexico.ai
+C:\project\1072 Gibson maps\graphics\mexico\mexico_ot.ai
+C:\project\1072 Gibson maps\graphics\_output\argentina.ai
+C:\project\1072 Gibson maps\graphics\_output\lowerusa.ai
+C:\project\1072 Gibson maps\graphics\_output\mexico.ai
+C:\project\1072 Gibson maps\graphics\_output\mexico_ot.ai
+C:\project\1075 HKH\graphics\cities\cities.ai
+C:\project\1075 HKH\graphics\hdi\hdi.ai
+C:\project\1075 HKH\graphics\hdichart\hdichart.ai
+C:\project\1075 HKH\graphics\mpi\mpi.ai
+C:\project\1075 HKH\graphics\mpichart\mpichart.ai
+C:\project\1075 HKH\graphics\populationdensity\populationdensity.ai
+C:\project\1075 HKH\graphics\poverty\poverty.ai
+C:\project\1075 HKH\graphics\_output\cities.ai
+C:\project\1075 HKH\graphics\_output\hdi.ai
+C:\project\1075 HKH\graphics\_output\hdichart.ai
+C:\project\1075 HKH\graphics\_output\mpi.ai
+C:\project\1075 HKH\graphics\_output\mpichart.ai
+C:\project\1075 HKH\graphics\_output\populationdensity.ai
+C:\project\1075 HKH\graphics\_output\poverty.ai
+C:\project\1080 GLOBIO Arctic 2012\graphics\arctic\globioarctic.ai
+C:\project\1086 North2North 2012\graphics\arrowmap\north2north_dec2012.ai
+C:\project\1086 North2North 2012\graphics\circle\north2north_circular.ai
+C:\project\1086 North2North 2012\graphics\circle\north2north_circular2.ai
+C:\project\1086 North2North 2012\graphics\circle_institution\north2north_circularinst.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_canada.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_finland.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_iceland.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_norway.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_russia.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_sweden.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\countryarrows_usa.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_canada.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_finland.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_iceland.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_norway.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_russia.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_sweden.ai
+C:\project\1086 North2North 2012\graphics\countryarrows\inout_countryarrows_usa.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_canada.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_finland.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_iceland.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_norway.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_russia.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_sweden.ai
+C:\project\1086 North2North 2012\graphics\country_all\countryall_usa.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_canada.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_finland.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_iceland.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_norway.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_russia.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_sweden.ai
+C:\project\1086 North2North 2012\graphics\_output\countryall_usa.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_canada.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_finland.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_iceland.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_norway.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_russia.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_sweden.ai
+C:\project\1086 North2North 2012\graphics\_output\countryarrows_usa.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_canada.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_finland.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_iceland.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_norway.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_russia.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_sweden.ai
+C:\project\1086 North2North 2012\graphics\_output\inout_countryarrows_usa.ai
+C:\project\1086 North2North 2012\graphics\_output\north2north_circular.ai
+C:\project\1086 North2North 2012\graphics\_output\north2north_circular2.ai
+C:\project\1086 North2North 2012\graphics\_output\north2north_circularinst.ai
+C:\project\1086 North2North 2012\graphics\_output\north2north_dec2012.ai
+C:\project\1089 Arctic Resilience Report\graphics\0_00 topographic map\0_00_topographicmap.ai
+C:\project\1089 Arctic Resilience Report\graphics\0_01 cover\0_01a cover.ai
+C:\project\1089 Arctic Resilience Report\graphics\0_01 cover\0_01b cover.ai
+C:\project\1089 Arctic Resilience Report\graphics\1_01 arctic resilience mentions\1_01_arctic_resilience_mentions.ai
+C:\project\1089 Arctic Resilience Report\graphics\1_02 ARR process\1_02_arr_process.ai
+C:\project\1089 Arctic Resilience Report\graphics\1_03 timeline\1_03_timeline.ai
+C:\project\1089 Arctic Resilience Report\graphics\1_04 nested scales\1_04_nested_scales.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_01 Ball in basin\2_01a_ballinbasin.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_01 Ball in basin\2_01b_ballinbasin.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_02 complexity\2_02_complexity.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_03 Scales and processes\2_03_scalesandprocesses.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_04 ses scales\2_04_ses_scales.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_05 Adaptive cycle\2_05_adaptivecycle.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_06 DPSIR\2_06_dpsir.ai
+C:\project\1089 Arctic Resilience Report\graphics\2_07 Ecosystem society links\2_07_ecosystem_society_links.ai
+C:\project\1089 Arctic Resilience Report\graphics\3_01 indigenous peoples\3_01_indigenouslanguages.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_01 arctic cryosphere warming\4_01_arctic_cryosphere_warming.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_02 cascading effects\4_02_cascading_effects.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_06 greenland temp record\4_06_greenlandtemprecord.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_07 typology of threshold behaviours\4_07_typology_thresholds.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_08 social drivers of arctic change\4_08_socialdrivers.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_09 Biophysical drivers\4_09_biophysicaldrivers.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_10 arctic temp trends\4_10_arctictemptrends.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_11 arctic weatherpatterns\4_11a_arcticweatherpatterns.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_11 arctic weatherpatterns\4_11b_arcticweatherpatterns.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_12 energy balance\4_12_energybalance.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_13 greenland albedo\4_13_greenland_albedo.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_14 Teshekpuk  lake\4_14_capehalkett.ai
+C:\project\1089 Arctic Resilience Report\graphics\4_b4 Marine hystersis\4_b4_marine_hysteresis.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_01_coping range\5_01_copingrange.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_02 vulnerability framework\5_02_vulnerabilityframework.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_03 integration vulnerability resilience\5_03_integration_vulnerability_resilience.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_04 components adaptation resilience\5_04_components_adaptation_resilience.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_05 ecosystem wellbeing\5_05_ecosystem_wellbeing.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_06 alaska infrastructure\5_06a_alaska_infrastructure.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_06 alaska infrastructure\5_06b_alaska_infrastructure.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_07 Loop learning\5_07_loop_learning.ai
+C:\project\1089 Arctic Resilience Report\graphics\5_08 transformation phases\5_08_transformationphases.ai
+C:\project\1089 Arctic Resilience Report\graphics\7_01 refmap bering strait\7_01_refmap_beringstrait.ai
+C:\project\1089 Arctic Resilience Report\graphics\7_02 northern sea route traffic\7_02_northernsearoute_traffic.ai
+C:\project\1089 Arctic Resilience Report\graphics\7_03 adaptive capacity learning\7_03_adaptive_capacity_learning.ai
+C:\project\1089 Arctic Resilience Report\graphics\8_01 refmap sw yukon\8_01_refmap_swyukon.ai
+C:\project\1089 Arctic Resilience Report\graphics\9_01 refmap reindeer\9_01_refmap_reindeer.ai
+C:\project\1089 Arctic Resilience Report\graphics\9_02 reindeer herding areas\9_02_reindeerherding.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\0_00_topographicmap.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\0_01a cover.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\0_01b cover.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\1_01_arctic_resilience_mentions.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\1_02_arr_process.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\1_03_timeline.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\1_04_nested_scales.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_01a_ballinbasin.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_01b_ballinbasin.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_02_complexity.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_03_scalesandprocesses.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_04_ses_scales.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_05_adaptivecycle.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_06_dpsir.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\2_07_ecosystem_society_links.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\3_01_indigenouslanguages.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_01_arctic_cryosphere_warming.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_02_cascading_effects.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_06_greenlandtemprecord.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_07_typology_thresholds.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_08_socialdrivers.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_09_biophysicaldrivers.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_10_arctictemptrends.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_11a_arcticweatherpatterns.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_11b_arcticweatherpatterns.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_12_energybalance.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_13_greenland_albedo.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_14_capehalkett.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\4_b4_marine_hysteresis.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_01_copingrange.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_02_vulnerabilityframework.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_03_integration_vulnerability_resilience.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_04_components_adaptation_resilience.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_05_ecosystem_wellbeing.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_06a_alaska_infrastructure.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_06b_alaska_infrastructure.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_07_loop_learning.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\5_08_transformationphases.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\7_01_refmap_beringstrait.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\7_02_northernsearoute_traffic.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\7_03_adaptive_capacity_learning.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\8_01_refmap_swyukon.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\9_01_refmap_reindeer.ai
+C:\project\1089 Arctic Resilience Report\graphics\_output\9_02_reindeerherding.ai
+C:\project\1090 Ivory\docs\globio map\globio_elephant.ai
+C:\project\1090 Ivory\graphics\globio_elephant.ai
+C:\project\1091 Vattenkraft\graphics\hydromap\hydromap.ai
+C:\project\1091 Vattenkraft\graphics\_output\hydromap.ai
+C:\project\1094 Arctic places\graphics\placemap\placesmap.ai
+C:\project\1094 Arctic places\graphics\placemap\placesmap2.ai
+C:\project\1094 Arctic places\graphics\_output\placesmap.ai
+C:\project\1094 Arctic places\graphics\_output\placesmap2.ai
+C:\project\1097 n2n May 2013\graphics\circle_country\north2north_circular.ai
+C:\project\1097 n2n May 2013\graphics\circle_institution\north2north_circularinst.ai
+C:\project\1097 n2n May 2013\graphics\members_may2013\members_may2013.ai
+C:\project\1097 n2n May 2013\graphics\n2n\north2north_june2013.ai
+C:\project\1097 n2n May 2013\graphics\_output\members_may2013.ai
+C:\project\1097 n2n May 2013\graphics\_output\north2north_circular.ai
+C:\project\1097 n2n May 2013\graphics\_output\north2north_circularinst.ai
+C:\project\1097 n2n May 2013\graphics\_output\north2north_june2013.ai
+C:\project\1104 Oskar exkursion\graphics\map\exkursionskarta1.ai
+C:\project\1104 Oskar exkursion\graphics\_output\exkursionskarta1.ai
+C:\project\1105 Jennie Diagram\graphics\diagram\diagram2.ai
+C:\project\1105 Jennie Diagram\graphics\diagram\diagram_ot.ai
+C:\project\1105 Jennie Diagram\graphics\_output\diagram2.ai
+C:\project\1105 Jennie Diagram\graphics\_output\diagram_ot.ai
+C:\project\1107 Palawan\graphics\map1\map1.ai
+C:\project\1107 Palawan\graphics\_output\map1.ai
+C:\project\1113 NE kart\graphics\asylumfrom\asylumfrom_high.ai
+C:\project\1113 NE kart\graphics\asylumfrom\asylumfrom_low.ai
+C:\project\1113 NE kart\graphics\asylumfrom\asylumto_high.ai
+C:\project\1113 NE kart\graphics\asylumfrom\asylumto_low.ai
+C:\project\1113 NE kart\graphics\basemap\basemap_high.ai
+C:\project\1113 NE kart\graphics\basemap\basemap_low.ai
+C:\project\1113 NE kart\graphics\basemap\labels_high.ai
+C:\project\1113 NE kart\graphics\climate\precip_high.ai
+C:\project\1113 NE kart\graphics\climate\precip_low.ai
+C:\project\1113 NE kart\graphics\climate\temp_high.ai
+C:\project\1113 NE kart\graphics\climate\temp_low.ai
+C:\project\1113 NE kart\graphics\hazard\cyclone_high.ai
+C:\project\1113 NE kart\graphics\hazard\cyclone_low.ai
+C:\project\1113 NE kart\graphics\hazard\drought_high.ai
+C:\project\1113 NE kart\graphics\hazard\drought_low.ai
+C:\project\1113 NE kart\graphics\hazard\flood_high.ai
+C:\project\1113 NE kart\graphics\hazard\flood_low.ai
+C:\project\1113 NE kart\graphics\hazard\quake_high.ai
+C:\project\1113 NE kart\graphics\hazard\quake_low.ai
+C:\project\1113 NE kart\graphics\hazard\slide_high.ai
+C:\project\1113 NE kart\graphics\hazard\slide_low.ai
+C:\project\1113 NE kart\graphics\hazard\volcano_high.ai
+C:\project\1113 NE kart\graphics\hazard\volcano_low.ai
+C:\project\1113 NE kart\graphics\hdi\hdi_high.ai
+C:\project\1113 NE kart\graphics\hdi\hdi_low.ai
+C:\project\1113 NE kart\graphics\lampedusa\lampedusa.ai
+C:\project\1113 NE kart\graphics\landcover\landcover_high.ai
+C:\project\1113 NE kart\graphics\landcover\landcover_low.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_investor_high.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_investor_low.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_investor_symbols_high.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_investor_symbols_low.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_target_high.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_target_low.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_target_symbols_high.ai
+C:\project\1113 NE kart\graphics\landgrabs\landgrabs_target_symbols_low.ai
+C:\project\1113 NE kart\graphics\mekong\mekong.ai
+C:\project\1113 NE kart\graphics\nightlights\nightlights_high.ai
+C:\project\1113 NE kart\graphics\nightlights\nightlights_low.ai
+C:\project\1113 NE kart\graphics\nilen\nilen.ai
+C:\project\1113 NE kart\graphics\popchange\popchange_high.ai
+C:\project\1113 NE kart\graphics\popchange\popchange_low.ai
+C:\project\1113 NE kart\graphics\popdens\popdens_high.ai
+C:\project\1113 NE kart\graphics\popdens\popdens_low.ai
+C:\project\1113 NE kart\graphics\_output\asylumfrom_high.ai
+C:\project\1113 NE kart\graphics\_output\asylumfrom_low.ai
+C:\project\1113 NE kart\graphics\_output\asylumto_high.ai
+C:\project\1113 NE kart\graphics\_output\asylumto_low.ai
+C:\project\1113 NE kart\graphics\_output\basemap_high.ai
+C:\project\1113 NE kart\graphics\_output\basemap_low.ai
+C:\project\1113 NE kart\graphics\_output\cyclone_high.ai
+C:\project\1113 NE kart\graphics\_output\cyclone_low.ai
+C:\project\1113 NE kart\graphics\_output\drought_high.ai
+C:\project\1113 NE kart\graphics\_output\drought_low.ai
+C:\project\1113 NE kart\graphics\_output\flood_high.ai
+C:\project\1113 NE kart\graphics\_output\flood_low.ai
+C:\project\1113 NE kart\graphics\_output\hdi_high.ai
+C:\project\1113 NE kart\graphics\_output\hdi_low.ai
+C:\project\1113 NE kart\graphics\_output\labels_high.ai
+C:\project\1113 NE kart\graphics\_output\lampedusa.ai
+C:\project\1113 NE kart\graphics\_output\landcover_high.ai
+C:\project\1113 NE kart\graphics\_output\landcover_low.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_investor_high.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_investor_low.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_investor_symbols_high.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_investor_symbols_low.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_target_high.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_target_low.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_target_symbols_high.ai
+C:\project\1113 NE kart\graphics\_output\landgrabs_target_symbols_low.ai
+C:\project\1113 NE kart\graphics\_output\mekong.ai
+C:\project\1113 NE kart\graphics\_output\nightlights_high.ai
+C:\project\1113 NE kart\graphics\_output\nightlights_low.ai
+C:\project\1113 NE kart\graphics\_output\nilen.ai
+C:\project\1113 NE kart\graphics\_output\popchange_high.ai
+C:\project\1113 NE kart\graphics\_output\popchange_low.ai
+C:\project\1113 NE kart\graphics\_output\popdens_high.ai
+C:\project\1113 NE kart\graphics\_output\popdens_low.ai
+C:\project\1113 NE kart\graphics\_output\precip_high.ai
+C:\project\1113 NE kart\graphics\_output\precip_low.ai
+C:\project\1113 NE kart\graphics\_output\quake_high.ai
+C:\project\1113 NE kart\graphics\_output\quake_low.ai
+C:\project\1113 NE kart\graphics\_output\slide_high.ai
+C:\project\1113 NE kart\graphics\_output\slide_low.ai
+C:\project\1113 NE kart\graphics\_output\temp_high.ai
+C:\project\1113 NE kart\graphics\_output\temp_low.ai
+C:\project\1113 NE kart\graphics\_output\volcano_high.ai
+C:\project\1113 NE kart\graphics\_output\volcano_low.ai
+C:\project\1117 SEI window\worldmap.ai
+C:\project\1120 Ola Hall Ghana\graphics\_output\ghana.ai
+C:\project\1121 UArctic 2014 updates\graphics\circle_country\north2north_circular_country_april2014.ai
+C:\project\1121 UArctic 2014 updates\graphics\members_april2014\members_april2014.ai
+C:\project\1121 UArctic 2014 updates\graphics\_output\members_april2014.ai
+C:\project\1121 UArctic 2014 updates\graphics\_output\north2north_circular_country_april2014.ai
+C:\project\3002 workshop\graphics\flyer\flyer2.ai
+C:\project\3002 workshop\graphics\flyer\flyer_climate.ai
+C:\project\3002 workshop\survey\graphics\q1\q1.ai
+C:\project\3002 workshop\survey\graphics\q1\q1_2.ai
+C:\project\3002 workshop\survey\graphics\q2\q2.ai
+C:\project\3002 workshop\survey\graphics\q3\q3.ai
+C:\project\3002 workshop\survey\graphics\q3\q3_2.ai
+C:\project\3002 workshop\survey\graphics\q4\q4.ai
+C:\project\3002 workshop\survey\graphics\q4policy\q4policy.ai
+C:\project\3002 workshop\survey\graphics\q5\q5.ai
+C:\project\3002 workshop\survey\graphics\q5\q5_2.ai
+C:\project\3002 workshop\survey\graphics\q6\q6.ai
+C:\project\3002 workshop\survey\graphics\q7\q7.ai
+C:\project\3002 workshop\survey\graphics\q7b\q7b.ai
+C:\project\3002 workshop\survey\graphics\q7c\q7c.ai
+C:\project\3002 workshop\survey\graphics\q8\q8.ai
+C:\project\3002 workshop\survey\graphics\q8b\q8b.ai
+C:\project\3002 workshop\survey\graphics\q8d_incomegroup\q8d_incomegroup.ai
+C:\project\3002 workshop\survey\graphics\responsesmap\responsesmap.ai
+C:\project\3002 workshop\survey\graphics\_output\q1.ai
+C:\project\3002 workshop\survey\graphics\_output\q1_2.ai
+C:\project\3002 workshop\survey\graphics\_output\q2.ai
+C:\project\3002 workshop\survey\graphics\_output\q3.ai
+C:\project\3002 workshop\survey\graphics\_output\q3_2.ai
+C:\project\3002 workshop\survey\graphics\_output\q4.ai
+C:\project\3002 workshop\survey\graphics\_output\q4policy.ai
+C:\project\3002 workshop\survey\graphics\_output\q5.ai
+C:\project\3002 workshop\survey\graphics\_output\q5_2.ai
+C:\project\3002 workshop\survey\graphics\_output\q6.ai
+C:\project\3002 workshop\survey\graphics\_output\q7.ai
+C:\project\3002 workshop\survey\graphics\_output\q7b.ai
+C:\project\3002 workshop\survey\graphics\_output\q7c.ai
+C:\project\3002 workshop\survey\graphics\_output\q8.ai
+C:\project\3002 workshop\survey\graphics\_output\q8b.ai
+C:\project\3002 workshop\survey\graphics\_output\q8d_incomegroup.ai
+C:\project\3002 workshop\survey\graphics\_output\responsesmap.ai
+C:\project\3004 Azote\graphics\asia\asien.ai
+C:\project\3004 Azote\graphics\asia\asien_mvatten.ai
+C:\project\3004 Azote\graphics\asia\asien_vattencity.ai
+C:\project\3004 Azote\graphics\heartmap\heartmap.ai
+C:\project\3004 Azote\graphics\ice2012\iceaug2012.ai
+C:\project\3004 Azote\graphics\vindkraft\vindkraft.ai
+C:\project\3004 Azote\graphics\wagnerbasemap\wagnerbasemap.ai
+C:\project\3005 Papercraft Atlas\graphics\nightlights\nightlights.ai
+C:\project\3006 Stockholm Foldable\graphics\map1\old\sthlm_fold.ai
+C:\project\3006 Stockholm Foldable\graphics\map1\sthlm_fold2.ai
+C:\project\3008 Kartdagarna 2013\graphics\ag\agposter2.ai
+C:\project\3008 Kartdagarna 2013\graphics\uarctic_tn\uarctictn_poster1.ai
