@@ -26,7 +26,6 @@ DESCRIPTION
 #target Illustrator-18.064
 #includepath (new File($.fileName)).parent 
 #include 'utility.jsx'
-alert($.fileName)
 /* jshint ignore:end */
 
 var saveVersion = Compatibility.ILLUSTRATOR17;
