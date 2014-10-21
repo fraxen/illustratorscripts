@@ -195,6 +195,10 @@ if (!(app.finalSaveNoPrompt)) {
 var now = new Date();
 var nowString = '';
 
+if (app.activeDocument.XMPString.match('for CS5') === 'for CS5') {
+	saveVersion = Compatibility.ILLUSTRATOR15;
+}
+
 if (app.activeDocument.XMPString.match('for CS3') === 'for CS3') {
 	saveVersion = Compatibility.ILLUSTRATOR13;
 }
