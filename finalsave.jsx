@@ -222,6 +222,7 @@ var destFolder = null;
 // Get the destination to save the files
 destFolder = app.activeDocument.fullName.path;
 sourceDoc = app.activeDocument;
+sourceDoc.save();
 var originalName = sourceDoc.name;
 // {{{ METADATA STUFF
 // Check if an old metadata file exists...
@@ -242,6 +243,7 @@ XMPMeta.registerNamespace( myNamespace, myPrefix );
 //Make our changes:
 
 // Test if we need to add defaults, and propmt for values
+var mTitle = myXmp.getProperty( XMPConst.NS_DC, 'title[1]' );
 if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'creator[1]' ) ) {
 	var now = new Date();
 	var mTitle = prompt ('Title', myXmp.getProperty( XMPConst.NS_DC, 'title[1]' ) );
@@ -368,7 +370,18 @@ execBatchfile(fBatch);
 
 // The save as illustrator again
 sourceDoc.saveAs (targetFileAI, getAIOptions());
-
+var myDocFile = new File( app.activeDocument.fullName );
+sourceDoc.close();
+// below doesn't work, it is not saved
+//sourceDoc.XMPString = sourceDoc.XMPString.replace(/(<dc:title>[^<]+<rdf:Alt>[^<]+<rdf:li xml:lang="x-default">)[^<]+/, '$1' + mTitle);
+var xmpFile = new XMPFile(myDocFile.fsName, XMPConst.FILE_UNKNOWN, XMPConst.OPEN_FOR_UPDATE);
+myXmp = xmpFile.getXMP();
+myXmp.setProperty( XMPConst.NS_DC, 'title/*[1]', mTitle );
+if (xmpFile.canPutXMP(myXmp)){xmpFile.putXMP(myXmp);}else{dispAlert("Error storing XMP");}
+xmpFile.closeFile(XMPConst.CLOSE_UPDATE_SAFELY);
+app.open(myDocFile);
+sourceDoc = app.activeDocument;
+	
 targetFilePNG.changePath(targetFilePNG2.fullName + '.png');
 
 var alertString ='';
