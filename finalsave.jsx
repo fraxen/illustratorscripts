@@ -253,6 +253,9 @@ if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'creator[1]' ) ) {
 	var mProjection = prompt( 'Projection', '');
 	var mSources = prompt( 'Sources (separate by semicolon)', '');
 	var mKeywords = prompt( 'Keywords (separate by semicolon)', '');
+	if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'title' ) ) {
+		myXmp.setProperty( XMPConst.NS_DC, 'title', null, XMPConst.PROP_IS_ARRAY );
+	}
 	myXmp.setProperty( XMPConst.NS_DC, 'title/*[1]', mTitle );
 	if ( mCreator.length ) {
 		if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'creator' ) ) {
