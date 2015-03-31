@@ -377,11 +377,14 @@ var myDocFile = new File( app.activeDocument.fullName );
 sourceDoc.close();
 // below doesn't work, it is not saved
 //sourceDoc.XMPString = sourceDoc.XMPString.replace(/(<dc:title>[^<]+<rdf:Alt>[^<]+<rdf:li xml:lang="x-default">)[^<]+/, '$1' + mTitle);
-var xmpFile = new XMPFile(myDocFile.fsName, XMPConst.FILE_UNKNOWN, XMPConst.OPEN_FOR_UPDATE);
-myXmp = xmpFile.getXMP();
-myXmp.setProperty( XMPConst.NS_DC, 'title/*[1]', mTitle );
-if (xmpFile.canPutXMP(myXmp)){xmpFile.putXMP(myXmp);}else{dispAlert("Error storing XMP");}
-xmpFile.closeFile(XMPConst.CLOSE_UPDATE_SAFELY);
+try {
+    var xmpFile = new XMPFile(myDocFile.fsName, XMPConst.FILE_UNKNOWN, XMPConst.OPEN_FOR_UPDATE);
+    myXmp = xmpFile.getXMP();
+    myXmp.setProperty( XMPConst.NS_DC, 'title/*[1]', mTitle );
+    if (xmpFile.canPutXMP(myXmp)){xmpFile.putXMP(myXmp);}else{dispAlert("Error storing XMP");}
+    xmpFile.closeFile(XMPConst.CLOSE_UPDATE_SAFELY);
+}
+catch(err) {}
 app.open(myDocFile);
 sourceDoc = app.activeDocument;
 	
