@@ -363,11 +363,11 @@ fBatch += ')\r';
 fBatch += 'if EXIST "' + targetFilePNG2.fsName + '.jpg" del "' + targetFilePNG2.fsName + '.jpg"\r';
 
 if (!doPngResize) {
-    fBatch += progFiles + '\\ImageMagick-6.9.0-Q16\\convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
+    fBatch += progFiles + '\\ImageMagick\\convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 } else {
     fBatch += 'copy ' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 }
-fBatch += progFiles + '\\ImageMagick-6.9.0-Q16\\convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"\r';
+fBatch += progFiles + '\\ImageMagick\\convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"\r';
 if (targetFilePNG.fsName !== targetFilePNG2.fsName) { fBatch += 'del "' + targetFilePNG.fsName + '.png"\r'; }
 execBatchfile(fBatch);
 
