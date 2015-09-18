@@ -13,10 +13,10 @@ DESCRIPTION
 
 function dispAlert(message, title, icon, priority) {
 	if (typeof title === 'undefined') { title = 'Illustrator ' + $.fileName.split('/').pop(); }
-	if (typeof icon === 'undefined') { icon = 'c:\\home\\hugo\\bin\\icon_illustrator.png'; }
+	if (typeof icon === 'undefined') { icon = 'c:\\users\\hugoa\\bin\\icon_illustrator.png'; }
 	if (typeof priority === 'undefined') { priority = 1; }
 	if (typeof message === 'undefined') { message = 'Illustrator ' + $.fileName.split('/').pop(); }
-	if (new File('C:\\ProgramX86\\system\\growl\\Growl.exe').exists) {
+	if (new File('C:\\Program Files (x86)\\Growl for Windows\\growlnotify.exe').exists) {
 		// Growl is installed, create batch file and run that
 		execBatchfile('start Growlnotify.exe /p:' + priority + ' /t:"' + title + '" /ai:' + icon + ' "' + message + '"');
 	} else {

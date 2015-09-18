@@ -12,7 +12,7 @@ DESCRIPTION
 	reside in the same folder.
  
 **********************************************************/
-#includepath '/c/home/hugo/config/Application Data/illustrator_cs5_settings/Scripts/Nordpil'
+#include '/c/Users/hugoa/config/Application Data/illustrator_scripts/Nordpil'
 var workFolder = Folder.selectDialog('Path to folder to convert all files');
 var aiFiles = workFolder.getFiles(prompt('Pattern for conversion, e.g. "*.ai" or "*.eps" etc','*.ai','Pattern'));
 
@@ -30,7 +30,7 @@ for (var i = 0; i<(aiFiles.length); i++){
 	//$.writeln ('Converted ' + (i+1) + '/' + aiFiles.length + ' - ' + aiFiles[i].name);
 	var fBatch = new File ($.getenv('temp') + '/finalsavedir.bat');
 	fBatch.open('w:');
-	fBatch.writeln ('start Growlnotify.exe /p:-1 /t:"Illustrator finalsave_dir.js" /ai:c:\\home\\hugo\\bin\\icon_illustrator.png "Converted ' + (i+1) + '/' + aiFiles.length + ' - ' + aiFiles[i].name + '"');
+	fBatch.writeln ('start Growlnotify.exe /p:-1 /t:"Illustrator finalsave_dir.js" /ai:c:\\users\\hugoa\\bin\\icon_illustrator.png "Converted ' + (i+1) + '/' + aiFiles.length + ' - ' + aiFiles[i].name + '"');
 	fBatch.close();
 	fBatch.execute();
 	$.sleep (2000);
@@ -38,7 +38,7 @@ for (var i = 0; i<(aiFiles.length); i++){
 
 var fBatch = new File ($.getenv('temp') + '/finalsavedir.bat');
 fBatch.open('w:');
-fBatch.writeln ('start Growlnotify.exe /p:2 /t:"Illustrator finalsave_dir.js" /ai:c:\\home\\hugo\\bin\\icon_illustrator.png "' + msgFinal + '"');
+fBatch.writeln ('start Growlnotify.exe /p:2 /t:"Illustrator finalsave_dir.js" /ai:c:\\users\\hugoa\\bin\\icon_illustrator.png "' + msgFinal + '"');
 fBatch.close();
 fBatch.execute();
 app.finalSaveNoPrompt = false;

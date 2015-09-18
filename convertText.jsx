@@ -10,8 +10,8 @@
 	http://nordpil.com
 }}} */ 
 
-#includepath '/c/home/hugo/config/Application Data/illustrator_cs5_settings/Scripts/Nordpil'
-#include 'alerter.jsx'
+#includepath '/c/users/hugoa/config/Application Data/illustrator_cs5_settings/Scripts/Nordpil'
+#include 'utility.jsx'
 
 var oldText,newRect,newText,targetZOrder,i,j;
 var changeCount = 0;
