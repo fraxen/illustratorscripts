@@ -1,7 +1,7 @@
 ﻿/* jshint ignore:start */
 #target Illustrator-18
-#include '/c/Users/hugo/config/Application Data/illustrator_scripts/zExtendables/extendables.jsx'
-#include '/c/home/hugo/config/Application Data/illustrator_scripts/Nordpil/utility.jsx'
+#include '/c/Users/hugoa/config/Application Data/illustrator_scripts/zExtendables/extendables.jsx'
+#include '/c/home/hugoa/config/Application Data/illustrator_scripts/Nordpil/utility.jsx'
 /* global activeDocument,app,Transformation,dispAlert */
 /* jshint ignore:end */
 
