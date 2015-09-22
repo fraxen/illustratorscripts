@@ -23,7 +23,7 @@ DESCRIPTION
 	to enable batch conversion (see 'finalsave_dir.js')
 
 **********************************************************/
-#target Illustrator-18.064
+#target Illustrator
 #includepath (new File($.fileName)).parent 
 #include 'utility.jsx'
 /* jshint ignore:end */
@@ -211,7 +211,7 @@ if (app.activeDocument.XMPString.match('noPngResize') === 'noPngResize') {
 	doPngResize = false;
 }
 // Main Code [Execution of script begins here]
-var progFiles = "c:\\program";
+var progFiles = "c:\\progra~1";
 
 // uncomment to suppress Illustrator warning dialogs
 app.userInteractionLevel = UserInteractionLevel.DONTDISPLAYALERTS;
@@ -361,13 +361,14 @@ fBatch += '   IF EXIST "' + pngFolder + '\\' + pngFileName.replace(/\.[^\.]*$/g,
 fBatch += ')\r';
 
 fBatch += 'if EXIST "' + targetFilePNG2.fsName + '.jpg" del "' + targetFilePNG2.fsName + '.jpg"\r';
+fBatch += 'pushd ' + progFiles + '\\ImageMagick\r';
 
 if (!doPngResize) {
-    fBatch += progFiles + '\\ImageMagick\\convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
+    fBatch += 'convert.exe -trim "' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 } else {
     fBatch += 'copy ' + targetFilePNG.fsName + '.png" "' + targetFilePNG2.fsName + '.png"\r';
 }
-fBatch += progFiles + '\\ImageMagick\\convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"\r';
+fBatch += 'convert.exe -background white -flatten +repage -antialias -quality 85 -support 0.9 -gamma 0.95 -filter Mitchell -resize x350 "' + targetFilePNG2.fsName + '.png" "' + targetFilePNG2.fsName + '.jpg"\r';
 if (targetFilePNG.fsName !== targetFilePNG2.fsName) { fBatch += 'del "' + targetFilePNG.fsName + '.png"\r'; }
 execBatchfile(fBatch);
 

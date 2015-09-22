@@ -10,6 +10,10 @@ DESCRIPTION
 	dispAlert Displays an alert, if Growl is installed, it will use that
 	doTheBat  - Executes batch file
 **********************************************************/
+/* global $, File, alert */
+/* jshint latedef: false */
+/* exported dispAlert, ungroup, execBatchfile */
+
 
 function dispAlert(message, title, icon, priority) {
 	if (typeof title === 'undefined') { title = 'Illustrator ' + $.fileName.split('/').pop(); }
@@ -115,8 +119,12 @@ function ungroup(obj)
 		for(var i=0;i<elements.length;i++)
 		{
 			try{
-				if(elements[i].parent.typename!="Layer")elements[i].moveBefore(obj);
-				if(elements[i].typename=="GroupItem")ungroup(elements[i]);
+				if(elements[i].parent.typename !== 'Layer') {
+					elements[i].moveBefore(obj);
+				}
+				if(elements[i].typename === 'GroupItem') {
+					ungroup(elements[i]);
+				}
 			}catch(e){
 
 			}
@@ -127,7 +135,9 @@ function ungroup(obj)
 function getChildAll(obj)
 {
 	var childsArr = [];
-	for(var i=0;i<obj.pageItems.length;i++)childsArr.push(obj.pageItems[i]);
+	for(var i=0;i<obj.pageItems.length;i++) {
+		childsArr.push(obj.pageItems[i]);
+	}
 	return childsArr;
 }
 
