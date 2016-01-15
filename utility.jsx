@@ -16,7 +16,7 @@ DESCRIPTION
 
 
 function dispAlert(message, title, icon, priority) {
-	if (typeof title === 'undefined') { title = 'Illustrator ' + $.fileName.split('/').pop(); }
+	if (typeof title === 'undefined') { title = app.name + ' ' + $.fileName.split('/').pop(); }
 	if (typeof icon === 'undefined') { icon = 'c:\\users\\hugoa\\bin\\icon_illustrator.png'; }
 	if (typeof priority === 'undefined') { priority = 1; }
 	if (typeof message === 'undefined') { message = 'Illustrator ' + $.fileName.split('/').pop(); }
@@ -29,12 +29,19 @@ function dispAlert(message, title, icon, priority) {
 	}
 }
 
+function dispToast(message, title, icon) {
+	title = typeof title !== 'undefined' ? title : app.name + ' ' + $.fileName.split('/').pop();
+	icon = typeof icon !== 'undefined' ? icon : 'c:\\users\\hugoa\\bin\\icon_illustrator.png';
+	message = typeof message !== 'undefined' ? message : title;
+	execBatchfile('snoretoast.exe -t "' + title + '" -m "' + message + '" -p "' + icon + '"');
+}
+
 function execBatchfile ( _data ) {     
 	// Modified from https://forums.adobe.com/thread/470608
 	try    
 	{    
         var now = new Date();
-		var nowString = now.getFullYear() + '_' + zeroPad(now.getMonth()+1,2) + '_'  + zeroPad(now.getDate(),2) + '-' + zeroPad(now.getHours(),2) + '_'  + zeroPad(now.getMinutes(),2);
+		var nowString = now.getFullYear() + '_' + zeroPad(now.getMonth()+1,2) + '_'  + zeroPad(now.getDate(),2) + '-' + zeroPad(now.getHours(),2) + '_'  + zeroPad(now.getMinutes(),2) + '_'  + zeroPad(now.getSeconds(),2) + '_'  + zeroPad(now.getMilliseconds(),2);
 		var _file = new File($.getenv('temp') + '/illy' + nowString +'.bat');    
 		_file.open( 'w' );     
 		_file.encoding = 'UTF-8';     
