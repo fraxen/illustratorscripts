@@ -30,14 +30,14 @@ projectFolder.refresh();
 app.buildFolderCache(projectFolder, true);
 coll.refresh();
 for (var i in projectFolder.children) {
-	$.writeln(projectFolder.children[i].name);
-	projectFolder.children[i].open();
-	projectFolder.children[i].refresh();
+	// $.writeln(projectFolder.children[i].name);
 	if (
 		projectFolder.children[i].type === 'folder' &&
 		projectFolder.children[i].name !== '_discussion' &&
 		projectFolder.children[i].name !== '_output'
 	) {
+		projectFolder.children[i].open();
+		projectFolder.children[i].refresh();
 		for (var j in projectFolder.children[i].children) {
 			if (
 				projectFolder.children[i].children[j].name.split('.').pop() === 'ai' ||
