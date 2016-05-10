@@ -25,6 +25,7 @@ var coll = app.createCollection(project);
 var collAll = getCollection('All');
 
 // Find files to add
+$.sleep(5000);
 projectFolder.open();
 projectFolder.refresh();
 app.buildFolderCache(projectFolder, true);
@@ -62,7 +63,10 @@ for (var i in gfxToAdd) {
 	app.addCollectionMember(coll, gfxToAdd[i]);
 	app.addCollectionMember(collAll, gfxToAdd[i]);
 }
+
 coll.refresh();
+projectFolder.open();
+projectFolder.refresh();
 
 
 dispAlert('Added ' + gfxToAdd.length + ' files to collection ' + coll.name, 'Fix Collection', 'c:\\users\\hugoa\\bin\\icon_bridge.png');
