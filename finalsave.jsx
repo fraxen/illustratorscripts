@@ -25,6 +25,7 @@ DESCRIPTION
 **********************************************************/
 #target Illustrator
 #includepath (new File($.fileName)).parent 
+#include '/c/Users/hugoa/config/Application Data/illustrator_scripts/zExtendables/extendables.jsx'
 #include 'utility.jsx'
 /* jshint ignore:end */
 
@@ -299,29 +300,52 @@ if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'creator[1]' ) ) {
 	if ( mProjection.length ) { myXmp.setProperty( myNamespace, 'projection', mProjection ); }
 	if ( mSources.length ) {
 		var sources = mSources.match(/("[^"]*")|[^;]+/g);
-		if ( !myXmp.doesPropertyExist( XMPConst.NS_DC, 'datasources' ) ) {
+		if ( !myXmp.doesPropertyExist( myNamespace, 'datasources' ) ) {
 			myXmp.setProperty( myNamespace, 'datasources', null, XMPConst.PROP_IS_ARRAY );
 		}
 		for ( var i = 0; i<( sources.length ); i++ ) {
 			myXmp.setProperty( myNamespace, 'datasources/*[' + (i+1) + ']', sources[i] );
 		}
 	}
-	//Append the modified xmp to the original xmp object:
-	XMPUtils.appendProperties( myXmp, docXmp, XMPConst.APPEND_REPLACE_OLD_VALUES );
-	//Create a File object of the active document so we can use .fsName (XMPFile seems to be picky):
-	var myDocFile = new File( app.activeDocument.fullName );
-	//Open the active document for writing:
-	var docRef = new XMPFile( myDocFile.fsName, XMPConst.FILE_UNKNOWN, XMPConst.OPEN_FOR_UPDATE );
-	//Check that we can write the xmp before writing it
-	docRef.putXMP( docXmp );
-	docRef.closeFile( XMPConst.CLOSE_UPDATE_SAFELY );
-	myDocFile.close();
-	xmpLib.unload();
-	var thisFileName = app.activeDocument.fullName;
-	app.activeDocument.close();
-	app.open(thisFileName);
-	sourceDoc = app.activeDocument;
 }
+
+// fix dc creator
+var mCreator = [];
+for( var i = 0; i<myXmp.countArrayItems(XMPConst.NS_DC, 'creator'); i++) {
+	mCreator.push(myXmp.getProperty(XMPConst.NS_DC, 'creator/*[' + (i+1) + ']'));
+}
+myXmp.deleteProperty(XMPConst.NS_DC, 'creator');
+myXmp.appendArrayItem(XMPConst.NS_DC, 'creator', null, XMPConst.PROP_IS_ARRAY, XMPConst.ARRAY_IS_ORDERED);
+mCreator.forEach(function(c,i){
+	myXmp.insertArrayItem(XMPConst.NS_DC, 'creator', i+1, c);
+});
+
+// fix datasources
+if (myXmp.getProperty(myNamespace, 'datasources') != '') {
+	var mSources = myXmp.getProperty(myNamespace, 'datasources')
+	myXmp.deleteProperty(myNamespace, 'datasources');
+	myXmp.appendArrayItem(myNamespace, 'datasources', null, XMPConst.PROP_IS_ARRAY, XMPConst.ARRAY_IS_UNORDERED);
+	myXmp.insertArrayItem(myNamespace, 'datasources', i, mSources);
+}
+
+// fix headline
+myXmp.setProperty( XMPConst.NS_PHOTOSHOP, 'Headline', myXmp.getProperty( XMPConst.NS_DC, 'title[1]' ) );
+
+//Append the modified xmp to the original xmp object:
+XMPUtils.appendProperties( myXmp, docXmp, XMPConst.APPEND_REPLACE_OLD_VALUES );
+//Create a File object of the active document so we can use .fsName (XMPFile seems to be picky):
+var myDocFile = new File( app.activeDocument.fullName );
+//Open the active document for writing:
+var docRef = new XMPFile( myDocFile.fsName, XMPConst.FILE_UNKNOWN, XMPConst.OPEN_FOR_UPDATE );
+//Check that we can write the xmp before writing it
+docRef.putXMP( docXmp );
+docRef.closeFile( XMPConst.CLOSE_UPDATE_SAFELY );
+myDocFile.close();
+xmpLib.unload();
+var thisFileName = app.activeDocument.fullName;
+app.activeDocument.close();
+app.open(thisFileName);
+sourceDoc = app.activeDocument;
 /// }}}
 
 // }}}
