@@ -6,7 +6,6 @@
 /* jshint ignore:end */
 
 var projectFolder = new Thumbnail(Folder(projectPath));
-var gfxToAdd = [];
 
 function getCollection(collName) {
 	var allCollections = app.getCollections();
@@ -24,6 +23,7 @@ if (getCollection(project) !== null) {
 var coll = app.createCollection(project);
 var collAll = getCollection('All');
 
+/*
 // Find files to add
 $.sleep(5000);
 projectFolder.open();
@@ -49,6 +49,7 @@ for (var i in projectFolder.children) {
 		}
 	}
 }
+*/
 
 // Remove files in the 'All' collection
 collAll.refresh();
@@ -59,9 +60,12 @@ for (var i=collAll.children.length; i--;) {
 }
 
 // Add found files to collection
-for (var i in gfxToAdd) {
-	app.addCollectionMember(coll, gfxToAdd[i]);
-	app.addCollectionMember(collAll, gfxToAdd[i]);
+for( var i = 0; i<gfxToAdd.length; i++) {
+	(function() {
+		var t = new Thumbnail(File(gfxToAdd[i]));
+		app.addCollectionMember(coll, t);
+		app.addCollectionMember(collAll, t);
+	})();
 }
 
 coll.refresh();
